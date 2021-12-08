@@ -69,6 +69,7 @@ defaultContentLanguage = 'en'
   Tag= 'tags'
   Category= 'categories'
   Author = "authors"
+  Series = 'series'
 
 ## Navigation Menu Configuration
 
