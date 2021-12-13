@@ -1,31 +1,32 @@
 ---
-title: "Why"
-date: 2021-11-27T05:44:45-08:00
 draft: false
-
+Media:
+  featuredimage: /images/cam2.jpg
+  alt: ""
 Seosection:
   title: ""
-  description : ""
+  description: ""
   image_OG: ""
-
+Authors:
+  - Tjeerd Andringa
 Header:
-  heading: "Daniel is testing out this section"
-  summary: "This first section we outline the basics of core cognition starting from the demands to being and remaining alive and maximizing viability of self and habitat. In it we derive core cognition and its two main modes, coping and co-creation, from the defining properties of life."
-
-Media:
-  featuredimage: "/images/cam2.jpg"
-  alt: ""
-
-Tags : ['hi', 'what']
+  heading: Daniel is testing out this section
+  summary: This first section we outline the basics of core cognition starting
+    from the demands to being and remaining alive and maximizing viability of
+    self and habitat. In it we derive core cognition and its two main modes,
+    coping and co-creation, from the defining properties of life.
+date: 2021-11-27T05:44:45-08:00
+title: Why
+Tags:
+  - hi
+  - what
 Categories: []
-Authors: ["Tjeerd Andringa"]
-
 ---
 
 | Syntax      | Description | Hi  |
 | ----------- | ----------- | --- |
 | Header      | Title       | --- |
-| Paragraph   | Text        |
+| Paragraph   | Text        | -- -– |
 
 This 4 section series is based on a recent paper (Andringa & Denham, 2021) in which we outline the basics of core cognition starting from the demands to being and remaining alive and maximizing viability of self and habitat. In it we derive core cognition and its two main modes, coping and co-creation, from first principles.
 
