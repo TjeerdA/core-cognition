@@ -23,3 +23,4 @@
   {{- end -}}
  {{- $stylecss = slice $stylecss | resources.Concat "all.css" -}}
  <link rel="stylesheet" href="{{$stylecss.Permalink}}">
+ <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

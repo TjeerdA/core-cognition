@@ -1,7 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = ''
 languageCode = 'en-us'
-title = 'Core Cognition'
+title = 'My New Hugo Site'
+
 defaultContentLanguage = 'en'
+
 ## disableLanguages = ['nl']
 
 ##Languages code
@@ -9,14 +11,14 @@ defaultContentLanguage = 'en'
 
   #This is English
   [languages.en]
-  contentDir = 'content/english'
+  contentDir = 'content/English'
   languageName = 'EN'
   weight  = 20
   languagedirection = 'rtl'
 
   [[languages.en.menu.navmenu]]
-    name = 'BASICS'
-    url = '/basics'
+    name = 'BASIC INSIGHT'
+    url = '/basic-insight'
     weight = 1
   [[languages.en.menu.navmenu]]
     name = "Analyses"
@@ -37,31 +39,15 @@ defaultContentLanguage = 'en'
   languageName = 'NL'
   weight  = 5
 
-  [[languages.nl.menu.navmenu]]
-    name = 'Basis'
-    url = '/basics'
+  #This is Dutch
+  [languages.fr]
+  contentDir = 'content/French'
+  languageName = 'FR'
+  weight  = 5
+  [[languages.fr.menu.navmenu]]
+    name = 'BASIC INSIGHT'
+    url = '/basic-insight'
     weight = 1
-  [[languages.nl.menu.navmenu]]
-    name = "Analyses"
-    url = "/analyses"
-    weight = 2
-  [[languages.nl.menu.navmenu]]
-    name = "Blog"
-    url = "/blog"
-    weight = 3
-  [[languages.nl.menu.navmenu]]
-    name = "Over ons"
-    url = "/about"
-    weight = 4
-
-
-  # #This is French
-  # [languages.fr]
-  # contentDir = 'content/French'
-  # languageName = 'FR'
-  # weight  = 5
-
-
 
 
 ##Taxonomies
@@ -69,7 +55,6 @@ defaultContentLanguage = 'en'
   Tag= 'tags'
   Category= 'categories'
   Author = "authors"
-  Series = 'series'
 
 ## Navigation Menu Configuration
 
@@ -78,8 +63,8 @@ defaultContentLanguage = 'en'
 ## Logo Configuration, Favicon, Alt
 [Params]
 logo = "/images/core-cognition-logo.svg"
-alt = "Logo"
+alt = "asds"
 url = "/"
 favicon = ""
 blogpostId = "619f99a4cb879275fad566e6"
-dataId = "61996b3541cc105c084a9af1"
+siteId = "61996b3541cc105c084a9af1"

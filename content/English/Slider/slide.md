@@ -1,10 +1,10 @@
 ---
-title: "slide 1"
+title: "slide"
 headless : true
 
 ##this is content of slider
 sliderHeader: "Being By Doing"
-sliderimage: "Kruger-Dunning-1.png"
+sliderimage: "images/cam2.jpg"
 #Always ensure to put a Alt text - This is an alternative text to the image
 alt: ""
 ---
