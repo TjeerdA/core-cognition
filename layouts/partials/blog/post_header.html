@@ -1,47 +1,50 @@
 <!-- Structure for the Header of Blog post - single page -->
+{{range .Params.author}} {{.}}
+{{end}}
 <div class="blog-header blog">
     <div class="container-big">
       <div class="pages-header-inside">
+        <div class="date">Published on<span class="published-on"> Dec 12, 2021</span></div>
         <h1 class="blog-heading-text">{{.Params.Header.heading}}</h1>
         <!-- Filter by related Tags and categories-->
-        <div class="filter-wrapper-blog">
-          <div class="filter-wrapper-blog">
-          <!-- Tags of Blog post -->
-          <div class="tags-blog-holder">
-            <div class="taxonomy-holder">
-              <div>Tags:</div>
+
+        <div class="tags-blog-holder">
+          <div class="filter-tags">
+            <div data-w-id="a9befcde-5f9e-35da-03f8-d0017fb880dd" class="filter-tags-item inuse">
+              <div>Related tags </div>
+              <div class="drop-down-icon">󰅀</div>
             </div>
-            <div>
+            <div style="display:none" class="filter-tags-dropdown">
               {{range .Params.tags}}
-              <a href="/tags/{{.|urlize}}" class="tags-item-link">Kruger Dunning</a>
+              <a filter-by="Faith Awokoya" href="#" class="tags-item w-inline-block">
+                {{.}}
+              </a>
               {{end}}
             </div>
           </div>
-          <!-- Categories of Blog post -->
-          <div class="tags-blog-holder">
-            <div class="taxonomy-holder">
-              <div>Categories:</div>
-            </div>
-            <div>
-              {{ range .Params.categories}}
-              <a href="/categories/{{.|urlize}}" class="tags-item-link">{{.}}</a>
-              {{end}}
-            </div>
-          </div>
+          {{- /* filter categories */ -}}
+          {{range .Params.categories}}
+          <a href="#" class="category w-inline-block">
+            {{.}}
+          </a>
+          {{end}}
         </div>
+
+        {{- /* This references the author Params in all posts*/ -}}
+        <div class="author-block">
+          <div class="author">Author:</div>
+          <div class="author-wrapper">
+            {{range .Params.authors}}
+              <a href="" class="text-block">{{.}}</a>
+            {{end}}
+
+
           </div>
         </div>
 
-        <!-- Structure of Author of Blog post -->
-        <div class="author-holder">
-          <div class="author-profile-image"></div>
-          <div class="author-content-holder">
-            {{range .Params.authors}}
-              <h2 class="author-name"> <a href="/authors/{{ . | urlize}}">{{.}}</a></h2>
-            {{end}}
-            <div>Published on <strong>{{ .PublishDate.Format "January 2, 2006" }}</strong></div>
-          </div>
-        </div>
+      </div>
+
+
 
     </div>
     <div class="abs-blog-header"><img src="images/arrows_background_blog.svg" loading="lazy" alt=""></div>

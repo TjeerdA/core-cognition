@@ -20,7 +20,7 @@ Tags:
   - omo
 Categories:
   - Kruger-Dunning
-Author: null
+Authors: [ "Ebenezer", "DAniel"]
 SeoSection:
   title: THYT
   description: GHTH

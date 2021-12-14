@@ -30,6 +30,11 @@ collections:
         widget: "list"
       - {label: 'Categories', name: 'Categories', widget: 'list'}
       - {label: 'Author', name: 'Author', widget: 'list'}
+      - label: "Table of Content"
+        name: "toc"
+        widget: "select"
+        options: ["on", "off"]
+        default: ["on"]
 
       - label : "Seo section"
         name: "SeoSection"
