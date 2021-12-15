@@ -1,10 +1,9 @@
 <!-- Structure for the Header of Blog post - single page -->
-{{range .Params.author}} {{.}}
-{{end}}
 <div class="blog-header blog">
     <div class="container-big">
+
       <div class="pages-header-inside">
-        <div class="date">Published on<span class="published-on"> Dec 12, 2021</span></div>
+        <div class="date">Published on<span class="published-on"> {{ .PublishDate.Format "January 2, 2006" }}</span></div>
         <h1 class="blog-heading-text">{{.Params.Header.heading}}</h1>
         <!-- Filter by related Tags and categories-->
 
@@ -34,17 +33,12 @@
         <div class="author-block">
           <div class="author">Author:</div>
           <div class="author-wrapper">
-            {{range .Params.authors}}
-              <a href="" class="text-block">{{.}}</a>
+            {{range .Params.author}} <a href="" class="text-block">{{.}}</a>
             {{end}}
-
-
           </div>
         </div>
 
       </div>
-
-
 
     </div>
     <div class="abs-blog-header"><img src="images/arrows_background_blog.svg" loading="lazy" alt=""></div>

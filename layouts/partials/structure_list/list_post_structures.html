@@ -1,8 +1,11 @@
 <section>
+  <div class="page_padding_down">
   <div class="container-big">
+    {{- /* Featured image goes here */ -}}
+    <div class="featured-image"><img src="{{.Params.Header.featuredimage}}" loading="lazy" sizes="90vw"  alt="{{.Params.Header.alternativetext}}" class="full-image"></div>
 
     <div class="blog-post-structure">
-      {{if eq .Params.toc ""}}
+      {{if eq .Params.toc true}}
       <div class="tableofcontent">
         <div data-w-id="28873302-fd29-7053-b0b0-151971dd5b46" class="toc-header">
           <h2 class="toc-heading">Table of Content</h2>
@@ -21,5 +24,8 @@
         </div>
       </div>
     </div>
+
   </div>
+  </div>
+
 </section>
