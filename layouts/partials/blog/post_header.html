@@ -1,7 +1,6 @@
 <!-- Structure for the Header of Blog post - single page -->
 <div class="blog-header blog">
     <div class="container-big">
-
       <div class="pages-header-inside">
         <div class="date">Published on<span class="published-on"> {{ .PublishDate.Format "January 2, 2006" }}</span></div>
         <h1 class="blog-heading-text">{{.Params.Header.heading}}</h1>
@@ -14,7 +13,7 @@
               <div class="drop-down-icon">󰅀</div>
             </div>
             <div style="display:none" class="filter-tags-dropdown">
-              {{with .Params.tags}}
+              {{range .Params.tags}}
               <a filter-by="Faith Awokoya" href="#" class="tags-item w-inline-block">
                 {{.}}
               </a>
@@ -22,7 +21,7 @@
             </div>
           </div>
           {{- /* filter categories */ -}}
-          {{with .Params.categories}}
+          {{range .Params.categories}}
           <a href="#" class="category w-inline-block">
             {{.}}
           </a>
@@ -33,7 +32,7 @@
         <div class="author-block">
           <div class="author">Author:</div>
           <div class="author-wrapper">
-            {{with .Params.author}} <a href="" class="text-block">{{.}}</a>
+            {{range .Params.author}} <a href="/categories/{{ . | urlize }}" class="text-block">{{.}}</a>
             {{end}}
           </div>
         </div>
