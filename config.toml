@@ -17,8 +17,8 @@ defaultContentLanguage = 'en'
   languagedirection = 'rtl'
 
   [[languages.en.menu.navmenu]]
-    name = 'BASIC INSIGHT'
-    url = '/basic-insight'
+    name = 'BASICS'
+    url = '/basics'
     weight = 1
   [[languages.en.menu.navmenu]]
     name = "Analyses"

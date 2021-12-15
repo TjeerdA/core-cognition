@@ -3,8 +3,9 @@
     <div class="container-big">
       <div class="blog-structure">
         {{- range .Pages -}}
+
         <div class="blog-summary-item">
-          {{ range .Params.categories}}
+          {{range .Params.categories}}
           <a href="/categories/{{.|urlize}}" class="category-holder w-inline-block">
             <div>{{.}}</div>
           </a>
@@ -25,6 +26,7 @@
                 {{.Content}}
           </div>
         </div>
+
         {{- end -}}
 
       </div>

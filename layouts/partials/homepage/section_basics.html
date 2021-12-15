@@ -4,7 +4,7 @@
     <div class="container-big">
       <div class="insight-wrapgrid">
         <div class="topics-heading-wrap">
-          {{with .Site.GetPage "/basic-insight/_index.md"}}
+          {{with .Site.GetPage "/basics/_index.md"}}
           <h2>{{.Params.Header.heading}}</h2>
           <p>{{.Params.Header.homepageSummary}}</p>
           <a href="#" class="button w-button">the basics details</a>
@@ -12,7 +12,7 @@
         </div>
 
         <div class="insight-contents-wrapper">
-          {{range first 5 (where .Site.RegularPages "Section" "basic-insight")}}
+          {{range first 5 (where .Site.RegularPages "Section" "basics")}}
           <a data-w-id="7594e64e-0825-24ee-e059-615b324d3c6d" href="{{.URL}}" class="insight-item-wrap w-inline-block">
             <h3 style="color:rgb(38,38,38)" class="heading-3-insight">{{.Params.Header.heading}}</h3>
             <p>{{.Params.Header.summary}}</p>

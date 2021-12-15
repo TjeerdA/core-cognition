@@ -54,14 +54,9 @@
         </div>
         <div class="blog-grid-homepage">
           {{- range first 2 (where .Site.RegularPages "Section" "blog") -}}
-          <!-- <div>
-            <div class="featured-blog-image"></div>
-            <h3>{{.Title}}</h3>
-            <p>{{.Params.Header.summary}}</p>
-          </div> -->
           <div class="blog-summary-item">
-            {{ range .Params.categories}}
-            <a href="/categories/{{.|urlize}}" class="category-holder w-inline-block">
+            {{range .Params.categories}}
+            <a href="/categories/{{. | urlize}}" class="category-holder w-inline-block">
               <div>{{.}}</div>
             </a>
             {{end}}
@@ -87,4 +82,5 @@
       </div>
     </div>
   </section>
+
 {{- end -}}

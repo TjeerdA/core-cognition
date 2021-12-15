@@ -24,7 +24,7 @@
       {{ range where .Site.Taxonomies.categories "Section" "blog"}}
       <a filter-by="{{.Page.Title}}" href="#" class="tags-item w-inline-block">
         <div>{{.Page.Title}}</div>
-      </a>
+      </a>  
       {{end}}
     </div>
   </div>

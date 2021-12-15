@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+date: {{ .Date}}
 draft: true
 url: ""
 
@@ -20,9 +20,9 @@ Seosection:
   socialimageThumbnail: ""
 
 
-Tags : ""
-Categories: ""
-Authors:
+Tags : []
+Categories: []
+Authors: []
 
 toc: ""
 ---

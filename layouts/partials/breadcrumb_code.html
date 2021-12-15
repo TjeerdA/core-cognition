@@ -1,6 +1,5 @@
 <!-- This code represents the Breadcrumb at the top -->
-
-
+{{- /* Breadcrumb code */ -}}
 <div class="breadcrumb-wrapper">
     <div class="container-big">
       <div class="breadcrumb-wrap">
@@ -10,8 +9,6 @@
           <div class="divider-breadcrumbs">/</div>
           <a href="{{.RelPermalink}}" class="breadcrumb-links">{{.Section}}</a>
         {{end}}
-
-        {{$sectionomo := .Section}}
 
         {{ if .IsPage}}
         <div class="divider-breadcrumbs">/</div>
