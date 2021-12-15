@@ -4,7 +4,14 @@
 </div>
 <!-- call partial - Blog post header -->
 {{partial "blog/post_header" .}}
+
+{{- /* If video available - This code shoots */ -}}
+{{partial "video" .}}
+
+{{- /* This code is the structure of the blogs and all list items */ -}}
 {{partial "structure_list/list_post_structures" .}}
+
+
 <section>
   <div class="page-padding">
     <div class="container-big">

@@ -26,6 +26,7 @@ SeoSection:
   description: GHTH
   image_OG: /images/featured-image.jpg
 date: 2021-11-28T01:17:27-08:00
+toc: on
 ---
 In 1999, Justin Kruger and David Dunning wrote a paper called “Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments”. They noted that “People tend to hold overly favorable views of their abilities in many social and intellectual domains”. Because of this they “reach erroneous conclusions and make unfortunate choices”. This makes sense: if you overestimate your abilities, at some point reality will prove you wrong and you will suffer unexpected and generally unfortunate consequences.
 

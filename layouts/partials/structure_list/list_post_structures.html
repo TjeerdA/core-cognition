@@ -1,13 +1,7 @@
 <section>
   <div class="container-big">
-    {{ $youtubeId := .Params.Header.featuredvideo}}
-    {{with .Params.Header.featuredvideo}}
-    <div class="video_section">
-      <div style="padding-top:56.17021276595745%" class="w-video w-embed"><iframe class="embedly-embed" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F{{$youtubeId}}%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D{{$youtubeId}}&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F{{$youtubeId}}%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube" scrolling="no" title="YouTube embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe></div>
-    </div>
-    {{end}}
 
-    <div class="blog-post-structure">      
+    <div class="blog-post-structure">
       {{if eq .Params.toc ""}}
       <div class="tableofcontent">
         <div data-w-id="28873302-fd29-7053-b0b0-151971dd5b46" class="toc-header">
@@ -28,5 +22,4 @@
       </div>
     </div>
   </div>
-
 </section>

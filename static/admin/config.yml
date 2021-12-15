@@ -30,11 +30,13 @@ collections:
         widget: "list"
       - {label: 'Categories', name: 'Categories', widget: 'list'}
       - {label: 'Author', name: 'Author', widget: 'list'}
+      #Table of content switch toggle
       - label: "Table of Content"
         name: "toc"
         widget: "select"
         options: ["on", "off"]
         default: ["on"]
+        hint: "Please toggle on if you want to have Table of Content"
 
       - label : "Seo section"
         name: "SeoSection"

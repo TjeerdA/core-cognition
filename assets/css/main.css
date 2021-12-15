@@ -823,6 +823,9 @@ li {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
   -webkit-box-align: start;
   -webkit-align-items: start;
   -ms-flex-align: start;
@@ -848,7 +851,10 @@ li {
 .featured-image {
   overflow: hidden;
   margin-bottom: 4rem;
+  border-radius: 5px;
+  box-shadow: 0 4px 16px -3px rgba(145, 144, 144, 0.16);
   text-align: center;
+  width:100%;
 }
 
 .toc-heading {
@@ -1316,6 +1322,7 @@ li {
 
 .author {
   padding: 3px 12px;
+  border-radius: 10px;
   background-color: #e5e1c8;
   font-size: 1.05rem;
   font-weight: 600;
@@ -1342,6 +1349,60 @@ li {
 
 .category:hover {
   background-color: #a68cd3;
+}
+
+.page_padding_down {
+  padding-bottom: 4rem;
+}
+
+.video-link {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 90%;
+  max-width: 400px;
+  margin-right: auto;
+  margin-bottom: 44px;
+  margin-left: auto;
+  padding: 9px 21px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 30px;
+  background-color: #f3f3f3;
+  font-size: 2.1rem;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+}
+
+.video-link:hover {
+  background-color: #eeece0;
+}
+
+.play-button {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-right: 18px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 50%;
+  background-color: #6f27ec;
+  font-family: 'Materialdesignicons webfont', sans-serif;
+  color: #fff;
+  font-size: 3rem;
 }
 
 @media screen and (max-width: 991px) {
@@ -1560,6 +1621,16 @@ li {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+  }
+
+  .video-link {
+    max-width: 310px;
+    font-size: 1.6rem;
+  }
+
+  .play-button {
+    width: 80px;
+    height: 80px;
   }
 }
 
@@ -1845,6 +1916,16 @@ li {
   .text-field {
     height: 40px;
     margin-bottom: 1px;
+  }
+
+  .video-link {
+    max-width: 300px;
+    font-size: 1.4rem;
+  }
+
+  .play-button {
+    width: 70px;
+    height: 70px;
   }
 }
 

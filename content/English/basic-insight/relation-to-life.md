@@ -15,6 +15,8 @@ Header:
     from the demands to being and remaining alive and maximizing viability of
     self and habitat. In it we derive core cognition and its two main modes,
     coping and co-creation, from the defining properties of life.
+  featuredvideo: 6R8Bn9SmVG
+
 date: 2021-11-27T05:44:45-08:00
 title: Why
 Tags:

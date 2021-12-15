@@ -1,23 +1,23 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+url: ""
 date: {{ .Date }}
 draft: true
-
-Seosection:
-  seoTitle: ""
-  seoDescription : ""
-  socialimageOG: ""
 
 Header:
   heading: ""
   summary: ""
   featuredimage: ""
 
+Seosection:
+  seoTitle: ""
+  seoDescription : ""
+  socialimageOG: ""
+
+
 Tags : []
 Categories: []
-Author:
-
-url: ""
+Authors:
 
 toc: ""
 ---

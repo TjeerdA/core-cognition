@@ -4,10 +4,21 @@
 <div class="breadcrumb-wrapper">
     <div class="container-big">
       <div class="breadcrumb-wrap">
-        <a href="#" class="breadcrumb-links">Home</a>
-        {{if .IsSection}} <a href="#" class="breadcrumb-links">/ {{.Section}}</a> {{end}}
-        /
+        {{$homelink := "/" | relLangURL}}
+        <a href="{{$homelink}}" class="breadcrumb-links">Home</a>
+        {{if .IsSection}}
+          <div class="divider-breadcrumbs">/</div>
+          <a href="{{.RelPermalink}}" class="breadcrumb-links">{{.Section}}</a>
+        {{end}}
+
+        {{$sectionomo := .Section}}
+
+        {{ if .IsPage}}
+        <div class="divider-breadcrumbs">/</div>
+        <a href="{{.Site.BaseURL }}{{.Section}}" class="breadcrumb-links">{{.Section}}</a> <div class="divider-breadcrumbs">/</div>
         <a href="{{.Permalink}}" aria-current="page" class="breadcrumb-links w--current">{{.LinkTitle }}</a>
+
+        {{end}}
       </div>
     </div>
 </div>
