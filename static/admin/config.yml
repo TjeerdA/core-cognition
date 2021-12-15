@@ -48,7 +48,7 @@ collections:
         fields:
           - {label: 'Title', name: 'title', widget: 'string'}
           - {label: 'description', name: 'description', widget: 'text'}
-          - {label: 'Social Media Image', name: 'image_OG', widget: 'image', required:false}
+          - {label: 'Social Media Image', name: 'image_OG', widget: 'image', required: false}
 
 #config for basics
 
@@ -93,7 +93,7 @@ collections:
         fields:
           - {label: 'Title', name: 'title', widget: 'string'}
           - {label: 'description', name: 'description', widget: 'text'}
-          - {label: 'Social Media Image', name: 'image_OG', widget: 'image'}
+          - {label: 'Social Media Image', name: 'image_OG', widget: 'image' required: false}
 
   #page Configuration
 
