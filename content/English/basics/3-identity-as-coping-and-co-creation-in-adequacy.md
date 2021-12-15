@@ -11,8 +11,7 @@ Header:
     conceptual language of core cognition is a productive lens for approaching a
     well-studied psychological phenomenon.
   alternativetext: Identity featured image
-toc:
-  - on
+toc: on
 SeoSection:
   title: 3 - Identity as coping and co-creation (in)adequacy
   description: Here we develop the structure of identity in terms of coping and
