@@ -94,12 +94,56 @@ collections:
           - {label: 'Title', name: 'title', widget: 'string'}
           - {label: 'description', name: 'description', widget: 'text'}
           - {label: 'Social Media Image', name: 'image_OG', widget: 'image', required: false}
+#config for analyses
+  - name: 'Analyses'
+    label: 'Analyses'
+    folder: 'content/English/analyses'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'slug', name: 'url', widget: 'list', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+      - label: "Header"
+        name: "Header"
+        collapse: true
+        widget: "object"
+        fields:
+          - {label: 'Heading', name: 'heading', widget: 'string', required: false}
+          - {label: 'Summary', name: 'summary', widget: 'string', required: false}
+          - {label: 'Featured Image', name: 'featuredimage', widget: 'image', required: false}
+          - {label: 'Alt Text', name: 'alternativetext', widget: 'string'}
+          - {label: 'Youtube Video', name: 'featuredvideo', widget: 'string', required: false, hint: 'example 6R8Bn9SmVG8'}
+     - label: "Tags"
+       name: "Tags"
+       widget: "list"
+          - {label: 'Categories', name: 'Categories', widget: 'list'}
+          - {label: 'Author', name: 'Author', widget: 'list'}
+      #Table of content switch toggle
+     - label: "Table of Content"
+       name: "toc"
+       widget: "select"
+       options: ["on", "off"]
+       default: ["on"]
+       hint: "Please toggle on if you want to have Table of Content"
+
+      - label : "Seo section"
+        name: "SeoSection"
+        collapse: true
+        widget: "object"
+        fields:
+          - {label: 'Title', name: 'title', widget: 'string'}
+          - {label: 'description', name: 'description', widget: 'text'}
+          - {label: 'Social Media Image', name: 'image_OG', widget: 'image', required: false}
 
   #page Configuration
 
   - name: 'Pages'
     label: 'pages'
     files:
+      #config for Homepage
       - label : "Homepage"
         name: "Homepage"
         file: "/content/English/_index.md"
@@ -123,3 +167,30 @@ collections:
               - { label: 'heading', name: 'heading', widget: 'string'}
               - { label: 'content', name: 'content', widget: 'text'}
               - { label: 'Background Image', name: 'background_img', widget: 'image'}
+
+          - label : "Seo section"
+            name: "SeoSection"
+            collapse: true
+            widget: "object"
+            fields:
+              - {label: 'Title', name: 'title', widget: 'string'}
+              - {label: 'description', name: 'description', widget: 'text'}
+              - {label: 'Social Media Image', name: 'image_OG', widget: 'image', required: false}
+
+
+      - label : "About page"
+        name: "about"
+        file: "/content/English/about.md"
+        fields:
+          - { label: 'dataId', name: 'dataId', widget: 'string'}
+          - { label: 'dataId', name: 'translationKey', widget: 'string'}
+          - { label: 'Body', name: 'Body', widget: 'markdown'}
+
+          - label : "Seo section"
+            name: "SeoSection"
+            collapse: true
+            widget: "object"
+            fields:
+              - {label: 'Title', name: 'title', widget: 'string'}
+              - {label: 'description', name: 'description', widget: 'text'}
+              - {label: 'Social Media Image', name: 'image_OG', widget: 'image', required: false}
