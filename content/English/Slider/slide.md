@@ -1,10 +1,8 @@
 ---
-title: "slide"
-headless : true
-
-##this is content of slider
-sliderHeader: "Being By Doing"
-sliderimage: "images/cam2.jpg"
-#Always ensure to put a Alt text - This is an alternative text to the image
-alt: ""
+title: slide 1
+headless: true
+date: 2021-12-16T18:57:39.053Z
+sliderHeader: Being By Doing
+sliderimage: /images/death-coping-infographic.gif
+alt: Coping and Co-creation inforgraphics
 ---
