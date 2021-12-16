@@ -47,4 +47,5 @@ Video topics
 * The adaptive cycle can be linked to the structure of values
 * We end with a comparison of expressed values of two countries that suggest quite different cycle positions.
 
+
 ![Adaptive Cycle Infographics](/images/adaptive-cycle.gif "Adaptive Cycle Infographics")

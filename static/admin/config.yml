@@ -139,6 +139,20 @@ collections:
           - {label: 'description', name: 'description', widget: 'text'}
           - {label: 'Social Media Image', name: 'image_OG', widget: 'image', required: false}
 
+  #slide Configuration
+  - name: 'Slider'
+    label: 'Slider'
+    folder: 'content/English/Slider'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Slide Heading', name: 'sliderHeader', widget: 'string' }
+      - { label: 'Slide image', name: 'sliderimage', widget: 'image' }
+      - { label: 'Alt text', name: 'alt', widget: 'string' }
+
   #page Configuration
 
   - name: 'Pages'
