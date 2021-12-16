@@ -16,7 +16,7 @@ Tags:
   - Concepts
   - Basics
 Author:
-  - Dr. Tjeerd Andringa
+  - Dr Tjeerd Andringa
 toc: on
 SeoSection:
   title: 1 - Core cognition derived from life's defining properties
