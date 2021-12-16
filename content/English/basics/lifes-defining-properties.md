@@ -4,7 +4,7 @@ date: 2021-12-16T21:19:47.371Z
 url:
   - relation-to-life
 Header:
-  heading: Core cognition derived from life's defining properties
+  heading: 1 - Core cognition derived from life's defining properties
   summary: This 4 section series is based on a recent paper (Andringa & Denham,
     2021) in which we outline the basics of core cognition starting from the
     demands to being and remaining alive and maximizing viability of self and
@@ -16,7 +16,7 @@ Tags:
   - Concepts
   - Basics
 Author:
-  - Dr. Tjeerd Andringa
+  - Dr Tjeerd Andringa
 toc: on
 SeoSection:
   title: 1 - Core cognition derived from life's defining properties
