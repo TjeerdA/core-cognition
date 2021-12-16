@@ -121,6 +121,7 @@ collections:
         widget: "list"
           - {label: 'Categories', name: 'Categories', widget: 'list'}
           - {label: 'Author', name: 'Author', widget: 'list'}
+
       #Table of content switch toggle
       - label: "Table of Content"
         name: "toc"
