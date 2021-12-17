@@ -7,6 +7,10 @@ Header:
   heading: 5 - Conclusions
   featuredimage: /images/conclusions.jpg
   alternativetext: featured image
+  summary: "We derived two separate forms of cognition; coping: for addressing
+    pressing problems and, hence, aimed at its termination; and co-creation:
+    aimed at optimizing everything in the context of everything else and aimed
+    at its perpetuation. "
 Tags:
   - Concepts
   - Basics
