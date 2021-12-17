@@ -7,9 +7,15 @@ Header:
   heading: Key Concepts
   featuredimage: /images/key-concepts.jpg
   alternativetext: Keys featured image
+  summary: Text based on Andringa & Denham (2021a). The environment from which
+    agents can derive all they need to survive (and thrive) and to which they
+    contribute to ensure long-term viability (of self and others), Note that we
+    use the term habitat to include other agents, but to exclude the agent.
 Tags:
   - Concepts
   - definitions
+Author:
+  - Dr Tjeerd Andringa
 toc:
   - on
 SeoSection:
