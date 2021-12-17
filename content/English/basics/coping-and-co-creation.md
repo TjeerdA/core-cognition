@@ -57,7 +57,7 @@ This is the complement of coordinating other agent’s behavior (which character
 
 > The application of tacit knowledge towards the application of a common good through a balance among intra-, inter-, and extra- personal interests to achieve a balance among adaptation to existing environments, shaping of existing environments, and a selection of new environments, over the long term as well as the short term. <br> -– Sternberg (1998)
 
-This definition is somewhat human-centered and can easily be generalized to all life, all agentic interests, all habitats, and all time-scales. And since tacit knowledge refers to skills, Sternberg’s definition can be generalized to “the balancing skills to contribute to the biosphere.” This is what we refer to as **generalized wisdom**.
+This definition is somewhat human-centered and can easily be generalized to all life, all agentic interests, all habitats, and all time-scales. And since tacit knowledge refers to skills, Sternberg’s definition can be generalized to *“the balancing skills to contribute to the biosphere.”* This is what we refer to as **generalized wisdom**.
 
 Where the application of power generally (but not necessarily) produces benefits to an in-group at the detriment of out-groups, proper co-creation leads to broadly constructive benefits and is a more than zero-sum game. As we argued, this drove and arguably still drives biospheric growth. Note that many agents might still suffer; co-creation manifests broad net benefits, not the absence of harm or suffering. Typically co-creating agents form a **community,** a group of individuals that each freely and self-guidedly contribute whatever benefits their adequacy can bring.
 
