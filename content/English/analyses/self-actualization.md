@@ -10,6 +10,7 @@ Header:
     levels of self-development, autonomy, happiness, and growth they can in
     principle achieve.
   alternativetext: Self actualization
+  featuredimage: /images/self-actualization-cover.jpg
 Tags:
   - Education
   - open-ended Development
