@@ -36,6 +36,10 @@ In [Learning Autonomy](/pdf/Learning-Autonomy-Andringa_2013.pdf) (Andringa et al
 
 Life is always near the ‘edge of chaos’ (Mora and Bialek, 2011) and if the complexity of the current situation is judged too high we benefit from coping strategies that reduce its complexity and make the situation more tractable and predictable. In [Learning Autonomy](/pdf/Learning-Autonomy-Andringa_2013.pdf) we referred to the form of cognition that allows us to curtail a complex world as “cognition for order,” “cognition for certainty,” or “control cognition.” We associated this form of cognition with fear and anxiety, detachment, abstract manipulation, and the personality trait ‘closed to experience.’ This description matches with the concepts that we used to describe the coping mode: ‘trying to control the situation,’ ‘reactive problem solving,’ ‘conservation of the essential,’ ‘short-term utility for self-preservation,’ and ‘acceptance of adverse side effects.’
 
+![Liberation Infographics](/images/escher-liberation.jpg "Liberation Infographics")
+
+> M.C. Escher’s 'Liberation' © 2013 The M.C. Escher Company—the Netherlands. All rights reserved. Used by permission. [www.mcescher.com](https://www.mcescher.com)).
+
 {{< figure src="Escher-Liberation.png" title="Liberation" caption="M.C. Escher’s 'Liberation' © 2013 The M.C. Escher Company—the Netherlands. All rights reserved. Used by permission. [www.mcescher.com](https://www.mcescher.com))." >}}
 
 Yet at other moments we can deal with some additional complexity and allow ourselves to explore the possibilities of the world. Successful, typically playful and purposeless, exploration leads to the discovery of new, generic or invariant structures that make the world a bit more tractable and accessible to agentic influences. This expansion of the understanding of the world fits with the holistic nature of the co-creation mode.
@@ -48,7 +52,7 @@ This erosion of the co-creation mode of cognition, and, directly coupled, the re
 
 In McGilchrist's formulation the right hemisphere is the master and the left hemisphere the servant to be assigned with specific tasks.
 
-![Escher Liberation Infographics](/images/escher-liberation.jpg "Escher Liberation Infographics")
+![Escher Liberation Infographics](/images/two-half-brains.jpg "Escher Liberation Infographics")
 
 > We are usually unaware of the switch between coping and co-creation, or alternatively of the switch between the strategies and outlook of our left and right hemisphere.
 
