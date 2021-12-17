@@ -22,7 +22,7 @@ SeoSection:
   description: "“This is an older text, but accessable text, that eventually
     developed into a paper called: “The Psychological Drivers of Bureaucracy:
     Protecting the Societal Goals of an Organization.” (Andringa, 2015) that
-    develops the topic of bureacracy much deeper."
+    develops the topic of bureaucracy much deeper."
 ---
 “This is an older text, but accessable text, that eventually developed into a paper called: [“The Psychological Drivers of Bureaucracy: Protecting the Societal Goals of an Organization.” ](https://corecognition.com/pdf/Andringa_2015-2.pdf)(Andringa, 2015) that develops the topic of bureacracy much deeper.
 
