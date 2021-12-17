@@ -10,7 +10,7 @@ Header:
     as described by McGilchrist in his book "The Master and his Emissary". Here
     we derive those properties from the "edge of chaos". Coping promotes
     structure, co-creation promotes opportunity.
-  featuredimage: /images/two-half-brains.jpg
+  featuredimage: /images/left-right-hemisphere.jpg
   alternativetext: Two half brains infographics
 Tags:
   - Brain
