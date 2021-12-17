@@ -40,8 +40,6 @@ Life is always near the ‘edge of chaos’ (Mora and Bialek, 2011) and if the c
 
 > M.C. Escher’s 'Liberation' © 2013 The M.C. Escher Company—the Netherlands. All rights reserved. Used by permission. [www.mcescher.com](https://www.mcescher.com)).
 
-{{< figure src="Escher-Liberation.png" title="Liberation" caption="M.C. Escher’s 'Liberation' © 2013 The M.C. Escher Company—the Netherlands. All rights reserved. Used by permission. [www.mcescher.com](https://www.mcescher.com))." >}}
-
 Yet at other moments we can deal with some additional complexity and allow ourselves to explore the possibilities of the world. Successful, typically playful and purposeless, exploration leads to the discovery of new, generic or invariant structures that make the world a bit more tractable and accessible to agentic influences. This expansion of the understanding of the world fits with the holistic nature of the co-creation mode.
 
 In Learning Autonomy we observed that the two modes we identified matched the description of differences in the way the left and right cerebral hemispheres understand the world and contribute to our existence according to the seminal work “The Master and His Emissary” by McGilchrist (2010). Table 1 of Learning Autonomy provides an comprehensive summary of the reported differences between (and complementarity of) the atti- tudes toward the world associated with the left and the right hemispheres that exemplifies how the coping and the co-creation modes are implemented in modern humanity (and in particular the brains of human individuals).
