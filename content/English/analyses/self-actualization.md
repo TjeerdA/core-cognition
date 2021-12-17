@@ -4,7 +4,7 @@ date: 2021-12-17T14:42:56.335Z
 url:
   - self-actualization
 Header:
-  heading: Self-actualization
+  heading: "A deeper look at self-actualization: what is it and what is it not?"
   summary: This paper argues for a very visible role of mentally healthy
     individuals in education. Only these can show children and adolescents what
     levels of self-development, autonomy, happiness, and growth they can in
@@ -28,7 +28,7 @@ SeoSection:
     levels of self-development, autonomy, happiness, and growth they can in
     principle achieve.
 ---
-# A deeper look at self-actualization: what is it and what is it not?
+## A deeper look at self-actualization: what is it and what is it not?
 
 Authors: Tjeerd C. Andringa 
 
@@ -36,9 +36,9 @@ This paper is about the highest form of mental health attainable: self-actualiza
 
 Maslow was spot on with his description of self-actualization, but he derived this via an intuitive process of little scientific rigor. Most scientific breakthroughs start this way. This paper is an serious, but fairly accessible, underpinning of his intuitions. 
 
-# Self-actualizing: what is it?
+## Self-actualizing: what is it?
 
-## Cognition from first principles
+### Cognition from first principles
 
 I'm not a psychologist. I'm a systems thinker. In particular, I study systems that take responsibility for their own continued existence: *living agents*. Agents who are very good at that self-actualize. And they prove that through tell-tale characteristics of flourishing. For me self-actualization is not at all a human specific property. In fact, modern humans might not even be very good at it, since many are rather languishing or suffering than flourishing (Keyes, 2005). 
 
@@ -201,7 +201,7 @@ Self-actualization has a number of tell-tale indicators.
 
 In the next part, full mental health will become more meaningful by contrasting it with different forms of existence that fall short of it. 
 
-# Self-actualizing: what it is not
+## Self-actualizing: what it is not
 
 What self-actualizing is will become even clearer by contrasting it to behavioral patterns that are deemed quite normal – and are often the norm – and not normally indicative of sub-optimal mental health. I do this using the structure of identity as has been elucidated in the last 50 years. 
 
