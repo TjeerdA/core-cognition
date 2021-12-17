@@ -10,7 +10,7 @@ Header:
     as described by McGilchrist in his book "The Master and his Emissary". Here
     we derive those properties from the "edge of chaos". Coping promotes
     structure, co-creation promotes opportunity.
-  featuredimage: /images/two-half-brains.jpg
+  featuredimage: /images/left-right-hemisphere.jpg
   alternativetext: Two half brains infographics
 Tags:
   - Brain
@@ -48,7 +48,7 @@ This erosion of the co-creation mode of cognition, and, directly coupled, the re
 
 In McGilchrist's formulation the right hemisphere is the master and the left hemisphere the servant to be assigned with specific tasks.
 
-![Two-half-brains](/images/two-half-brains.jpg "Two-half-brains")
+![Escher Liberation Infographics](/images/escher-liberation.jpg "Escher Liberation Infographics")
 
 > We are usually unaware of the switch between coping and co-creation, or alternatively of the switch between the strategies and outlook of our left and right hemisphere.
 
