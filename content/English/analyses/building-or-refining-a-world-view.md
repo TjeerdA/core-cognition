@@ -1,6 +1,8 @@
 ---
 title: Building or refining a world view
 date: 2021-12-17T16:52:55.236Z
+url:
+  - building-or-refining-a-world-view
 Header:
   alternativetext: World View image
 toc:
