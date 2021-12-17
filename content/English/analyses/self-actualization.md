@@ -36,9 +36,9 @@ This paper is about the highest form of mental health attainable: self-actualiza
 
 Maslow was spot on with his description of self-actualization, but he derived this via an intuitive process of little scientific rigor. Most scientific breakthroughs start this way. This paper is an serious, but fairly accessible, underpinning of his intuitions. 
 
-# Self-actualizing: what is it?
+## Self-actualizing: what is it?
 
-## Cognition from first principles
+### Cognition from first principles
 
 I'm not a psychologist. I'm a systems thinker. In particular, I study systems that take responsibility for their own continued existence: *living agents*. Agents who are very good at that self-actualize. And they prove that through tell-tale characteristics of flourishing. For me self-actualization is not at all a human specific property. In fact, modern humans might not even be very good at it, since many are rather languishing or suffering than flourishing (Keyes, 2005). 
 
