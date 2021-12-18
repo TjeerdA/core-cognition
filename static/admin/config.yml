@@ -192,7 +192,6 @@ collections:
               - {label: 'description', name: 'description', widget: 'text'}
               - {label: 'Social Media Image', name: 'image_OG', widget: 'image', required: false}
 
-
       - label : "About page"
         name: "about"
         file: "/content/English/about.md"
@@ -209,3 +208,9 @@ collections:
               - {label: 'Title', name: 'title', widget: 'string'}
               - {label: 'description', name: 'description', widget: 'text'}
               - {label: 'Social Media Image', name: 'image_OG', widget: 'image', required: false}
+
+      - label : "Config file"
+        name: "config"
+        file: "/config.toml"
+        fields:
+          - { label: 'Body', name: 'Body', widget: 'markdown'}

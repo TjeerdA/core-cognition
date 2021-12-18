@@ -11,7 +11,8 @@ Seosection:
   image_OG: ""
 
 Header:
+  heading: "Blog"
+  summary: ""
   img_background: "/images/arrows_background_blog.svg"
 
 ---
-test things here
