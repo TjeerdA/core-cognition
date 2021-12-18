@@ -17,7 +17,7 @@ Tags:
   - Science
   - Definitions
 Author:
-  - Dr. Tjeerd Andringa
+  - Dr Tjeerd Andringa
 toc: on
 SeoSection:
   description: "How can we define scientific concepts such that they are inclusive

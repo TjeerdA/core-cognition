@@ -1,7 +1,6 @@
-baseURL = ''
+baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-
 defaultContentLanguage = 'en'
 
 ## disableLanguages = ['nl']
