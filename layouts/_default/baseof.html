@@ -2,7 +2,7 @@
 <html data-wf-page="{{- with .Param "dataId" -}} {{.}} {{- else -}} {{- .Site.Params.blogpostId -}} {{end}}" data-wf-site="{{.Site.Params.SiteId}}">
   <head>
     <meta charset="utf-8">
-    <title>{{if eq .IsHome true}}{{.Site.Title}}{{else}}{{.Title}} | {{.Site.Title}}{{end}}</title>
+    <title>{{if eq .IsHome true}}{{.Site.Title}}{{else if (eq .IsSection true)}} {{.Params.pageTitle}} {{else}}{{.Title}} {{end}}  | {{.Site.Title}}</title>
     <!-- import all meta tags, seo contents-->
     {{- partial "keyholders/head_meta" . -}}
   </head>

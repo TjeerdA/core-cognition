@@ -1,7 +1,6 @@
-Body = "Test this"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "My New Hugo Site"
+title = "Core-cognition"
 baseURL = "/"
 
 [Params]

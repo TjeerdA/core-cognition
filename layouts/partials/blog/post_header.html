@@ -4,8 +4,8 @@
       <div class="pages-header-inside">
         <div class="date">Published on<span class="published-on"> {{ .PublishDate.Format "January 2, 2006" }}</span></div>
         <h1 class="blog-heading-text">{{.Params.Header.heading}}</h1>
-        <!-- Filter by related Tags and categories-->
 
+        <!-- Filter by related Tags and categories-->
         <div class="tags-blog-holder">
           <div class="filter-tags">
             <div data-w-id="a9befcde-5f9e-35da-03f8-d0017fb880dd" class="filter-tags-item inuse">
@@ -14,7 +14,7 @@
             </div>
             <div style="display:none" class="filter-tags-dropdown">
               {{range .Params.tags}}
-              <a filter-by="Faith Awokoya" href="#" class="tags-item w-inline-block">
+              <a href="/tags/{{ . | urlize}}" class="tags-item w-inline-block">
                 {{.}}
               </a>
               {{end}}
@@ -22,7 +22,7 @@
           </div>
           {{- /* filter categories */ -}}
           {{range .Params.categories}}
-          <a href="#" class="category w-inline-block">
+          <a href="/categories/{{ . | urlize}}" class="category w-inline-block">
             {{.}}
           </a>
           {{end}}
@@ -32,8 +32,8 @@
         <div class="author-block">
           <div class="author">Author:</div>
           <div class="author-wrapper">
-            {{range .Params.author}} <a href="/categories/{{ . | urlize }}" class="text-block">{{.}}</a>
-            {{end}}
+            {{- range .Params.author -}} <a href="/authors/{{ . | urlize }}" class="text-block">{{.}}</a>
+            {{- end -}}
           </div>
         </div>
 

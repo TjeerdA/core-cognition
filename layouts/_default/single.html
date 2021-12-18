@@ -2,17 +2,17 @@
 <div class="breadcrumb-wrapper">
 {{partial "breadcrumb_code" .}}
 </div>
-<!-- call partial - Blog post header -->
+{{- /* This partial imports the Filter tags, categories and author - It is the header of posts */ -}}
 {{partial "blog/post_header" .}}
 
 {{- /* If video available - This code shoots */ -}}
-{{partial "video" .}}
+{{- partial "video" . -}}
 
 {{- /* This code is the structure of the blogs and all list items */ -}}
 {{partial "structure_list/list_post_structures" .}}
 
 
-<section>
+<section class="wheat">
   <div class="page-padding">
     <div class="container-big">
 
