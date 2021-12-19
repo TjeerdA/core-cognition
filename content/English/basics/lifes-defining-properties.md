@@ -40,7 +40,7 @@ This page pertains to living agents in general.
 With this text come two tables:
 
 1. A [list of key concepts](https://corecognition.com/basics/CC-Key-Concepts)
-2. Two [complementary ontologies](https://corecognition.com/basics/CC-Two-Ontologies) one associated with coping, a second with co-creation
+2. [Two contrasting ontologies](https://corecognition.com/basics/two-contrasting-ontologies) one associated with coping, a second with co-creation
 
 * Andringa, T. C., & Denham, F. C. (2021). Coping and co-creation: one attempt and one route to well-being. Psychology in Russia, 14(2), 152–170.
 
