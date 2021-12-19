@@ -1,6 +1,6 @@
 ---
 title: Life's defining properties
-date: 2021-12-16T21:19:47.371Z
+date: 2021-12-19T20:47:34.826Z
 url:
   - relation-to-life
 Header:
