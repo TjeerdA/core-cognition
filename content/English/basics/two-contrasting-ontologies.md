@@ -2,7 +2,7 @@
 title: Two contrasting ontologies
 date: 2021-12-17T09:28:43.616Z
 url:
-  - cc-two-ontologies
+  - two-contrasting-ontologies
 Header:
   heading: Two contrasting ontologies
   summary: "This is a table with two contrasting self-consistent ontologies that
