@@ -1,6 +1,6 @@
 ---
-title: Life's defining properties
-date: 2021-12-16T21:19:47.371Z
+title: 1 - Life's defining properties
+date: 2021-12-19T20:47:34.826Z
 url:
   - relation-to-life
 Header:
@@ -17,6 +17,7 @@ Tags:
   - Basics
 Author:
   - Dr Tjeerd Andringa
+  - Florence Denham
 toc: on
 SeoSection:
   title: 1 - Core cognition derived from life's defining properties
@@ -25,6 +26,7 @@ SeoSection:
     the demands to being and remaining alive and maximizing viability of self
     and habitat. In it we derive core cognition and its two main modes, coping
     and co-creation, from first principles.
+  image_OG: /images/agent-habitat-slider.gif
 ---
 This 4 section series is based on a recent paper (Andringa & Denham, 2021) in which we outline the basics of **core cognition** starting from the demands to being and remaining alive and maximizing viability of self and habitat. In it we derive core cognition and its two main modes, coping and co-creation, from first principles.
 
