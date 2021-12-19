@@ -1,6 +1,6 @@
 ---
 title: Intro to core cognition
-date: 2021-12-17T10:47:34.546Z
+date: 2021-12-19T20:47:07.883Z
 url:
   - intro
 Header:
