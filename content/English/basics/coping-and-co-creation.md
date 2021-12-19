@@ -1,5 +1,5 @@
 ---
-title: Coping and Co-creation
+title: 2 - Coping and Co-creation
 date: 2021-12-16T21:07:25.113Z
 url:
   - coping-and-co-creation
