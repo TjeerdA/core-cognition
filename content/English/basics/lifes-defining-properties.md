@@ -15,6 +15,11 @@ Header:
 Tags:
   - Concepts
   - Basics
+  - Life
+  - Co-creation
+  - Coping
+Categories:
+  - Overview of Core Cognition
 Author:
   - Dr Tjeerd Andringa
   - Florence Denham
