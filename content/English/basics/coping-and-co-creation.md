@@ -17,8 +17,7 @@ Tags:
   - basics
 Author:
   - Dr. Tjeerd Andringa
-toc:
-  - on
+toc: on
 SeoSection:
   title: Coping and Co-creation as two manifestations of core cognition
   description: This section addresses the quite different and complementary
