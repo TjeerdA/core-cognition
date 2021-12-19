@@ -17,8 +17,8 @@ Tags:
   - Definitions
 Author:
   - Dr Tjeerd Andringa
-toc:
-  - on
+  - Florence Denham
+toc: off
 SeoSection:
   description: "This is a table with two contrasting self-consistent ontologies
     that arise from the defining properties of coping and co-creation. Ideally
