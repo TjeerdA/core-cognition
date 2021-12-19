@@ -31,8 +31,6 @@ SeoSection:
 
 This section addresses the quite different and complementary features of coping and co-creation. We need both, because successful coping maximizes time for co-creation. The complementarity of the two modes, as two separate ontologies that disagree on many aspects, might be the root of life’s **resilience.** Where resilience is defined as “the capacity of a system to absorb disturbance and reorganize while undergoing change so as to still retain essentially the same function, structure, identity, and feedbacks” (Walker et al., 2004). We originate resilience in the agent’s ability to anticipate and predict.
 
-![Adaptive cycle](/images/adaptive-cycle-featured-image.gif "Adaptive cycle")
-
 ### Anticipation and Predictability
 
 Coping and co-creation are abilities – in psychology, skills and tacit knowledge (Patterson et al., 2010) – expressed as behavior in response and appropriate to how the agent appraises its habitat context. Of course, agent-initiated actions change the habitat state to which other agents may respond, which, in turn, changes the habitat state. Since the habitat may change even without direct agentic influences, agents exist in an evolving world in which they must position themselves to protect and enhance self and habitat viability. To exist in such an environment, the agent needs anticipatory models (Vernon, 2010) of the state of self and the habitat. It must update these actively, and choose its behavior to realize benefits to self and the habitat. In this open environment, even the best agent generated model leads only to partial predictability. Coping and co-creation strategies increase partial predictability, but use different strategies and complementary logics.
