@@ -17,6 +17,7 @@ Tags:
   - basics
 Author:
   - Dr. Tjeerd Andringa
+  - Florence Denham
 toc: on
 SeoSection:
   title: Coping and Co-creation as two manifestations of core cognition
