@@ -1,6 +1,6 @@
 ---
 title: 5 - Conclusions
-date: 2021-12-09T09:04:55.725Z
+date: 2021-12-15T09:04:55.725Z
 url:
   - conclusions
 Header:
@@ -15,6 +15,9 @@ Tags:
   - Concepts
   - Basics
   - Identity
+Author:
+  - Dr. Tjeerd Andringa
+  - Florence Denham
 toc:
   - on
 SeoSection:

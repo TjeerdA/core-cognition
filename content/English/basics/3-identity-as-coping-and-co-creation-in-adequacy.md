@@ -1,6 +1,6 @@
 ---
 title: 3 - Identity as coping and co-creation (in)adequacy
-date: 2021-12-15T13:06:12.315Z
+date: 2021-12-17T13:06:12.315Z
 url:
   - identity
 Header:
@@ -16,8 +16,14 @@ Tags:
   - Concepts
   - Basics
   - Identity
+  - Co-creation
+  - Coping
+Categories:
+  - Overview of Core Cognition
+  - Self-development
 Author:
   - Dr Tjeerd Andringa
+  - Florence Denham
 toc: on
 SeoSection:
   title: 3 - Identity as coping and co-creation (in)adequacy

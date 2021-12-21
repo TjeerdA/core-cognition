@@ -1,6 +1,6 @@
 ---
 title: Two contrasting ontologies
-date: 2021-12-17T09:28:43.616Z
+date: 2021-12-13T09:28:43.616Z
 url:
   - two-contrasting-ontologies
 Header:

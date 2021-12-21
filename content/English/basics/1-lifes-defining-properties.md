@@ -26,7 +26,7 @@ Author:
 toc: on
 SeoSection:
   title: 1 - Core cognition derived from life's defining properties
-  description: This 4 section series is based on a recent paper (Andringa &
+  description: This first of a 4 section series is based on a recent paper (Andringa &
     Denham, 2021) in which we outline the basics of core cognition starting from
     the demands to being and remaining alive and maximizing viability of self
     and habitat. In it we derive core cognition and its two main modes, coping
@@ -68,7 +68,7 @@ This is known as **stigmergy**: building on the constructive traces of past beh
 
 The **biosphere** grew from fragile and localized to robust and extensive, so we know beyond doubt that life on Earth is, in the aggregate, a constructive force. It is the co-creation mode’s contributions to habitat viability that explain this. In fact, the biosphere can be seen as the outcome of stigmergy: the sum total of all agentic traces left in the environment since the origin of life (Andringa et al., 2015). Co-creation and generalized wisdom as the main cognitive ability drive the biosphere’s growth and gradually increase its **carrying capacity:** the sum total of all life activity in the biosphere. This makes co-creation the most authoritative influence on Earth. Coping is also an important authoritative influence, but it is limited to setting up and maintaining the conditions for pressing need satisfaction.
 
-![Satisfaction infographics - Core cognition](/images/need-satisfaction.gif "Satisfaction infographics - Core cognition")
+![Need satisfaction infographics - Core cognition](/images/need-satisfaction.gif "Satisfaction infographics - Core cognition")
 
 #### Figure 1. Life’s demand
 

@@ -1,5 +1,6 @@
 ---
-title: Two routes to general well being
+title: 4 - Two routes to general well being
+date: 2021-12-16
 url:
   - two-routes-to-general-well-being
 Header:
@@ -17,8 +18,12 @@ Tags:
   - Concepts
   - Basics
   - Identity
+  - pathological normality
+  - ontological Security
+  - psychological safety
 Author:
-  - Tjeerd Andringa
+  - Florence Denham
+  - Dr. Tjeerd Andringa
 toc: on
 SeoSection:
   description: We contrast the ‘ontological security’ framework with a recent

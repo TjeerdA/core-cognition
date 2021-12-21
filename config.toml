@@ -7,7 +7,7 @@ baseURL = "/"
 logo = "/images/core-cognition-logo.svg"
 alt = "asds"
 url = "/"
-favicon = ""
+favicon = "/images/core-cognition-logo.svg"
 blogpostId = "619f99a4cb879275fad566e6"
 siteId = "61996b3541cc105c084a9af1"
 
@@ -15,6 +15,7 @@ siteId = "61996b3541cc105c084a9af1"
 Tag = "tags"
 Category = "categories"
 Author = "authors"
+Series = "Introduction"
 
 [Language]
 

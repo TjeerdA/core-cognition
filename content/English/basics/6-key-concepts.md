@@ -1,6 +1,6 @@
 ---
 title: Key Concepts
-date: 2021-12-17T06:22:44.015Z
+date: 2021-12-14T06:22:44.015Z
 url:
   - cc-key-concepts
 Header:
@@ -16,6 +16,7 @@ Tags:
   - definitions
 Author:
   - Dr Tjeerd Andringa
+  - Florence Denham
 toc:
   - on
 SeoSection:
