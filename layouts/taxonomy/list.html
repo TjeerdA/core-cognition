@@ -9,4 +9,9 @@
 </div>
 
 {{partial "blog/summary_layout_blog_post" .}}
+
+{{range .Pages}}
+  {{.}}
+{{end}}
+
 {{end}}

@@ -1,0 +1,7 @@
+{{define "mainContent"}}
+{{- $cssComponents := resources.Match "images/*." -}}
+  {{- range $cssComponents -}}
+    {{.RelPermalink}} <br>
+  {{- end -}}
+
+{{ end }}

@@ -23,5 +23,5 @@ Secondsection:
     this all the time. Realizing what these basic requirements are and how they
     promote or impede quality of life helps you develop a better understanding
     of your own and other’s behavior.
-  background_img: images/arrows_background.svg
+  background_img: /images/arrows_background.svg
 ---
