@@ -13,7 +13,7 @@ Header:
     the basic ideas of core cognition. "
   img_background: /images/triangles.svg
   alternativetext: Analysis_alt
-toc: off
+toc: on
 SeoSection:
   title: Applications of Core Cognition
   description: "The posts in this section are further developments or applications
