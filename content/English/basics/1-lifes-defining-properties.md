@@ -26,18 +26,18 @@ Author:
 toc: on
 SeoSection:
   title: 1 - Core cognition derived from life's defining properties
-  description: This first of a 4 section series is based on a recent paper (Andringa &
-    Denham, 2021) in which we outline the basics of core cognition starting from
-    the demands to being and remaining alive and maximizing viability of self
-    and habitat. In it we derive core cognition and its two main modes, coping
-    and co-creation, from first principles.
+  description: This first of a 4 section series is based on a recent paper
+    (Andringa & Denham, 2021) in which we outline the basics of core cognition
+    starting from the demands to being and remaining alive and maximizing
+    viability of self and habitat. In it we derive core cognition and its two
+    main modes, coping and co-creation, from first principles.
   image_OG: /images/agent-habitat-slider.gif
 ---
 This 4 section series is based on a recent paper (Andringa & Denham, 2021) in which we outline the basics of **core cognition** starting from the demands to being and remaining alive and maximizing viability of self and habitat. In it we derive core cognition and its two main modes, coping and co-creation, from first principles.
 
 This page pertains to living agents in general.
 
-With this text come two tables:
+With this text come two summary tables:
 
 1. A [list of key concepts](https://corecognition.com/basics/CC-Key-Concepts)
 2. [Two contrasting ontologies](https://corecognition.com/basics/two-contrasting-ontologies) one associated with coping, a second with co-creation
