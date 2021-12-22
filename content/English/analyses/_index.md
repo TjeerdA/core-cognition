@@ -1,17 +1,24 @@
 ---
-dataId: "619ccc92e2a53a0af2a41673"
-title: "Analyses"
-date: 2021-11-27T10:15:34-08:00
 draft: false
-pageTitle: "Analyses"
-
+dataId: 619ccc92e2a53a0af2a41673
 Seosection:
   title: ""
-  description : ""
+  description: ""
   image_OG: ""
-
+title: Analyses
+date: 2021-11-27T10:15:34-08:00
 Header:
-  heading: "Analyses"
-  summary: "The posts on this page are based on the text of the two-part paper we published in “Psychology in Russia: state of the art”. The published part 1 (pdf) and part 2 (pdf} can be found on the journal’s website. These form a full introduction to core cognition as we have defined it now. More accessible introductions can be found here"
+  heading: Analyses
+  summary: "The posts in this section are further developments or applications of
+    the basic ideas of core cognition. "
   img_background: /images/triangles.svg
+  alternativetext: Analysis_alt
+toc: off
+SeoSection:
+  title: Applications of Core Cognition
+  description: "The posts in this section are further developments or applications
+    of the basic ideas of core cognition. "
+pageTitle: Analyses
+Author:
+  - Dr. Tjeerd Andringa
 ---
