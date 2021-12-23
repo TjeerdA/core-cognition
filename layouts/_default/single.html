@@ -15,11 +15,12 @@
 <section class="wheat">
   <div class="page-padding">
     <div class="container-big">
-
-      {{- $presentSection := .Section -}}
-      {{- range first 3 (where .Site.RegularPages "Section" $presentSection) -}}
+      {{ $related := .Site.RegularPages.Related . | first 3 }}
+      {{ with $related }}
+      {{- range . }}
         {{partial "structure_list/structure_listed" .}}
       {{- end -}}
+      {{end}}
 
     </div>
   </div>
