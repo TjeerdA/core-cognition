@@ -5,9 +5,9 @@ url:
   - inclusive-definitions
 Header:
   heading: Inclusive definitions
-  summary: How can we define scientific concepts such that they are inclusive of
-    all phenomena that pertain to the concept? In the years from 1991 to 1999, I
-    contributed to the design and development of an applied cognitive science
+  summary: How can we define scientific concepts such that they are **inclusive of
+    all phenomena** that pertain to the concept? In the years from 1991 to 1999,
+    I contributed to the design and development of an applied cognitive science
     department – what has now become the department of Artificial Intelligence
     at the University of Groningen (the Netherlands)
   featuredimage: /images/inclusive-definitions.jpg
