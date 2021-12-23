@@ -5,7 +5,7 @@ url:
   - identity
 Header:
   heading: 3 - Identity as coping and co-creation (in)adequacy
-  summary: Here we develop the structure of identity in terms of coping and
+  summary: Here we develop the **structure of identity** in terms of coping and
     co-creation adequacy. This leads to an enriched understanding of the
     interplay between coping and co-creation, and it demonstrates that the
     conceptual language of core cognition is a productive lens for approaching a
