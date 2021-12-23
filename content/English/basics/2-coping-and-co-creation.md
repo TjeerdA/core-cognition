@@ -20,8 +20,8 @@ Header:
     - Coping
   Categories:
     - Overview of Core Cognition
-Author:
-  - Dr. Tjeerd Andringa
+Authors:
+  - Dr Tjeerd Andringa
   - Florence Denham
 toc: on
 SeoSection:

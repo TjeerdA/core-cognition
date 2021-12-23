@@ -15,7 +15,7 @@ Header:
 Tags:
   - Brain
   - Understanding
-Author:
+Authors:
   - Dr Tjeerd Andringa
 toc:
   - on

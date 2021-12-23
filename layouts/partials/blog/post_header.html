@@ -32,7 +32,7 @@
         <div class="author-block">
           <div class="author">Author:</div>
           <div class="author-wrapper">
-            {{- range .Params.author -}} <a href="/authors/{{ . | urlize }}" class="text-block">{{.}}</a>
+            {{- range .Params.authors -}} <a href="/authors/{{ . | urlize }}" class="text-block">{{.}}</a>
             {{- end -}}
           </div>
         </div>

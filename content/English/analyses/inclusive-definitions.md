@@ -16,7 +16,7 @@ Tags:
   - Concepts
   - Science
   - Definitions
-Author:
+Authors:
   - Dr Tjeerd Andringa
 toc: on
 SeoSection:

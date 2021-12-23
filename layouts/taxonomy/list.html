@@ -1,5 +1,5 @@
-{{ define "mainContent"}}
-{{partial "breadcrumb_code" .}}
+{{define "mainContent"}}
+{{- partial "breadcrumb_code" . -}}
 <div class="page-header blog">
     <div class="container-big">
       <div class="pages-header-inside">
@@ -7,11 +7,5 @@
       </div>
     </div>
 </div>
-
-{{partial "blog/summary_layout_blog_post" .}}
-
-{{range .Pages}}
-  {{.}}
-{{end}}
-
-{{end}}
+{{- partial "blog/summary_layout_blog_post" . -}}
+{{- end -}}

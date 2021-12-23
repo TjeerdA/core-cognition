@@ -16,8 +16,8 @@ Tags:
   - Self development
 Categories:
   - core cognition
-Author:
-  - Tjeerd Andringa
+Authors:
+  - Dr Tjeerd Andringa
 toc: on
 SeoSection:
   title: The Kruger-Dunning effect

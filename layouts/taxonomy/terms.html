@@ -1,3 +1,20 @@
 {{define "mainContent" }}
-  The term tags
+<div class="page-header blog">
+    <div class="container-big">
+      <div class="pages-header-inside">
+        <h1 class="color-text-white">{{.Title}}</h1>
+      </div>
+    </div>
+</div>
+  <section>
+    <div class="page-padding">
+      <div class="container-big">
+        <div class="taxonomy-structure">
+          {{- range .Pages -}}
+          <a href="{{ .Permalink}}" class="taxonomy-items w-inline-block">{{ .LinkTitle }}</a>
+          {{- end -}}
+        </div>
+      </div>
+    </div>
+  </section>
 {{end}}

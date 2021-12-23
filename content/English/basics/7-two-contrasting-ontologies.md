@@ -15,7 +15,7 @@ Header:
 Tags:
   - Concepts
   - Definitions
-Author:
+Authors:
   - Dr Tjeerd Andringa
   - Florence Denham
 toc: off

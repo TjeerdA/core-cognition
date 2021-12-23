@@ -14,7 +14,7 @@ Header:
 Tags:
   - Bureaucracy
   - Authoritarianism
-Author:
+Authors:
   - Dr Tjeerd Andringa
 toc: on
 SeoSection:

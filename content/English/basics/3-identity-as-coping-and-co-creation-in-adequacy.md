@@ -21,7 +21,7 @@ Tags:
 Categories:
   - Overview of Core Cognition
   - Self-development
-Author:
+Authors:
   - Dr Tjeerd Andringa
   - Florence Denham
 toc: on

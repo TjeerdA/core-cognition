@@ -16,7 +16,7 @@ Tags:
   - sustainability
   - values
   - life
-Author:
+Authors:
   - Dr. Tjeerd Andringa
 toc:
   - on

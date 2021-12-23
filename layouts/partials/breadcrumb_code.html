@@ -5,17 +5,15 @@
       <div class="breadcrumb-wrap">
         {{$homelink := "/" | relLangURL}}
         <a href="{{$homelink}}" class="breadcrumb-links">Home</a>
-        {{if .IsSection}}
+        {{- if or ( eq .IsSection true) (eq .Type "Regularpages") -}}
           <div class="divider-breadcrumbs">/</div>
           <a href="{{.RelPermalink}}" class="breadcrumb-links">{{.Section}}</a>
-        {{end}}
-
+        {{- end -}}
         {{ if .IsPage}}
-        <div class="divider-breadcrumbs">/</div>
+        {{- if ne .Type "pages" -}} <div class="divider-breadcrumbs">/</div> {{- else -}}{{- end -}}
         <a href="{{.Site.BaseURL }}{{.Section}}" class="breadcrumb-links">{{.Section}}</a> <div class="divider-breadcrumbs">/</div>
         <a href="{{.Permalink}}" aria-current="page" class="breadcrumb-links w--current">{{.LinkTitle }}</a>
-
-        {{end}}
+        {{- end -}}
       </div>
     </div>
 </div>

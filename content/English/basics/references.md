@@ -12,7 +12,7 @@ Tags:
   - Concepts
   - Basics
   - Well being
-Author:
+Authors:
   - Dr Tjeerd Andringa
   - Florence Denham
 toc:

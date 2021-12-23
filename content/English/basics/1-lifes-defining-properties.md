@@ -20,7 +20,7 @@ Tags:
   - Coping
 Categories:
   - Overview of Core Cognition
-Author:
+Authors:
   - Dr Tjeerd Andringa
   - Florence Denham
 toc: on

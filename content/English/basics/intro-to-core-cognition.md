@@ -11,7 +11,7 @@ Header:
   alternativetext: featured image
 Tags:
   - Basics
-Author:
+Authors:
   - Dr Tjeerd Andringa
 toc:
   - on

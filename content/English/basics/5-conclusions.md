@@ -15,8 +15,8 @@ Tags:
   - Concepts
   - Basics
   - Identity
-Author:
-  - Dr. Tjeerd Andringa
+Authors:
+  - Dr Tjeerd Andringa
   - Florence Denham
 toc:
   - on

@@ -21,9 +21,9 @@ Tags:
   - pathological normality
   - ontological Security
   - psychological safety
-Author:
+Authors:
   - Florence Denham
-  - Dr. Tjeerd Andringa
+  - Dr Tjeerd Andringa
 toc: on
 SeoSection:
   description: We contrast the ‘ontological security’ framework with a recent
