@@ -20,7 +20,7 @@
               {{end}}
             </div>
             <h2 class="post-headings blogging">{{.Params.Header.heading}}</h2>
-            <p>{{.Params.Header.summary}} </p>
+            <p>{{.Params.Header.summary | markdownify}} </p>
           </a>
           <div style="display:none !important">
                 {{.Content}}

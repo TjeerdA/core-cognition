@@ -4,7 +4,7 @@
     <a href="{{.Permalink}}" class="button small w-button">Read more</a>
   </div>
   <div class="insight-inside-content-holder">
-    <p>{{.Params.Header.summary}}</p>
+    <p>{{.Params.Header.summary | markdownify}}</p>
   </div>
   <div class="image-post-holder"><img src="{{.Params.Header.featuredimage}}" loading="lazy"  alt=""></div>
 </div>
