@@ -32,7 +32,7 @@
         <div class="author-block">
           <div class="author">Author:</div>
           <div class="author-wrapper">
-            {{$num_authors := len .Params.authors}}
+            {{$num_authors := .Params.authors}}
             {{- range .Params.authors -}} <a href="/authors/{{ . | urlize }}" class="text-block"> {{.}}</a>{{- if ge $num_authors 2 -}},{{end}}
             {{- end -}}
           </div>
