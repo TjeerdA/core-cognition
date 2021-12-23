@@ -17,9 +17,8 @@ Tags:
   - values
   - life
 Authors:
-  - Dr. Tjeerd Andringa
-toc:
-  - on
+  - Dr Tjeerd Andringa
+toc: on
 SeoSection:
   title: The adaptive cycle
   description: >-
