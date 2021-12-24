@@ -1,5 +1,5 @@
 ---
-title: "pdf"
+title: "images"
 layout: pdf
 type: "pages"
 ---
