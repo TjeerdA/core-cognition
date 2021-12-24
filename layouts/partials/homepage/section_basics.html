@@ -7,7 +7,7 @@
           {{with .Site.GetPage "/basics/_index.md"}}
           <h2>{{.Params.Header.heading}}</h2>
           <p>{{.Params.Header.homepageSummary | markdownify}}</p>
-          <a href="#" class="button w-button">the basics details</a>
+          <a href="{{.RelPermalink}}" class="button w-button">the basics details</a>
           {{end}}
         </div>
 
