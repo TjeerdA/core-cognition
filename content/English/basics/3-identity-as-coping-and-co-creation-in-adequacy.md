@@ -49,8 +49,13 @@ Learning to optimize the pain/pleasure balance fits very well with optimizing we
 
 ![Dealing with Life's challenges inforgraphics](/images/life-challenging.gif "Dealing with Life's challenges inforgraphics")
 
+<<<<<<< HEAD
 > ### Figure 3. Dealing with life’s challenges.
 >
+=======
+### Figure 3. Dealing with life’s challenges.
+
+>>>>>>> 23e30d6e1f79767f5b630a4970673b1c5f5df4db
 > Four attitudes toward problems and challenges (on the main axes), coupled with broad strategies (on the circle), effects on the world, and behavioral (in)effectiveness. The dashed arrows represent life’s key demands: maintaining and increasing viability of self and habitat (Part 1, Figure 1). Alternatively attending to both demands implements core cognition.
 
 The main horizontal axis denotes preventing problems (associated with wisdom) as the highest manifestation of self-direction since it leads to high viability of self and habitat (*Figure 1* of Part 1). Its fallback strategy is controlling or reducing (unprevented) problems through social mimicry (Chartrand & van Baaren, 2009) as a manifestation of low self-direction. This is a situation where persistent problems require great effort to handle but are not necessarily successfully controlled and signify low viability. The vertical axis reflects solving problems (associated with intelligence) as a way to assert oneself or, alternatively, avoid them as a way of adapting without changing the situation.
