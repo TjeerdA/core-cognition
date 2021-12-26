@@ -11,6 +11,7 @@ url = "/"
 favicon = "/images/core-cognition-logo.svg"
 blogpostId = "619f99a4cb879275fad566e6"
 siteId = "61996b3541cc105c084a9af1"
+favicon = "/images/core-cognition-logo.svg/"
 
 [taxonomies]
 Tag = "tags"
