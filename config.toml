@@ -3,6 +3,10 @@ defaultContentLanguage = "en"
 title = "Core-cognition"
 baseURL = "/"
 disableLanguages = ["nl", "fr"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [Params]
 logo = "/images/core-cognition-logo.svg"
