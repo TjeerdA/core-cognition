@@ -50,7 +50,7 @@ Learning to optimize the pain/pleasure balance fits very well with optimizing we
 
 ![Figure 3. Dealing with Life's challenges](/images/life-challenging.gif "Figure 3. Dealing with Life's challenges")
 
-Four attitudes toward problems and challenges (on the main axes), coupled with broad strategies (on the circle), effects on the world, and behavioral (in)effectiveness. The dashed arrows represent life’s key demands: maintaining and increasing viability of self and habitat (Part 1, Figure 1). Alternatively attending to both demands implements core cognition.
+<center>Four attitudes toward problems and challenges (on the main axes), coupled with broad strategies (on the circle), effects on the world, and behavioral (in)effectiveness. The dashed arrows represent life’s key demands: maintaining and increasing viability of self and habitat (Part 1, Figure 1). Alternatively attending to both demands implements core cognition.</center>
 
 - - -
 
