@@ -1,7 +1,13 @@
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='/thankyou';}">
+</iframe>
 <div class="contact-form w-form">
           <h2>Get in touch with us</h2>
-          <form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="form"><input type="text" class="text-field w-input" maxlength="256" name="Full-Name" data-name="Full Name" placeholder="Full Name" id="Full-Name" required=""><input type="email" class="text-field w-input" maxlength="256" name="Email-Address" data-name="Email Address" placeholder="Email" id="Email-Address" required=""><input type="email" class="text-field w-input" maxlength="256" name="Email-Address-2" data-name="Email Address 2" placeholder="Email" id="Email-Address-2" required="">
-            <div><textarea placeholder="Type your questions or enquiries " maxlength="5000" id="Comments" name="Comments" data-name="field" class="w-input"></textarea></div><input type="submit" value="Send a Message" data-wait="Please wait..." class="button w-button">
+          <form onsubmit="submitted=true;" id="email-form-2" name="email-form-2" data-name="Email Form 2" class="form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfxIEJVLJ_Ir2R6Wncsb-A93ZsU4RlhK20depPFoP4z_9LYfQ/formResponse">
+            <input type="text" class="text-field w-input" maxlength="256" name="entry.950106629" data-name="Full Name" placeholder="Full Name" id="Full-Name" required="">
+            <input type="email" class="text-field w-input" maxlength="256" name="entry.1298137998" data-name="Email Address" placeholder="Email" id="Email-Address" required="">
+            <input type="text" class="text-field w-input" maxlength="256" name="entry.1095569441" data-name="Email Address 2" placeholder="Phone Number" id="phone">
+            <div>
+            <textarea placeholder="Type your questions or enquiries " maxlength="5000" id="Comments" name="entry.559120092" data-name="field" class="text-field  w-input"></textarea></div><input type="submit" value="Send a Message" data-wait="Please wait..." class="button w-button">
           </form>
           <div class="w-form-done">
             <div>Thank you! Your submission has been received!</div>
