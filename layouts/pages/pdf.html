@@ -1,13 +1,20 @@
 {{define "mainContent"}}
+<div class="page-header blog">
+    <div class="container-big">
+      <div class="pages-header-inside">
+        <h1 class="color-text-white">All {{.Title}}</h1>
+      </div>
+    </div>
+</div>
 <div class="page-padding">
   <div class="container-big">
     {{if (eq .Title "pdf")}}
-    {{- $imageComponents := resources.Match "images/*." -}}
+    {{- $imageComponents := resources.Match "images/*.pdf" -}}
       {{- range $imageComponents -}}
         {{.RelPermalink}} <br>
     {{- end -}}
     {{else}}
-    {{- $pdfComponents := resources.Match "pdfs/*." -}}
+    {{- $pdfComponents := resources.Match "images/*." -}}
       {{- range $pdfComponents -}}
       <a href="{{.RelPermalink}}">{{.RelPermalink}}</a><br>
       {{- end -}}

@@ -1,13 +1,15 @@
-{{$pageName:= .Page}}
-{{if ne $pageName "about"}}
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='/thankyou';}">
+</iframe>
+{{$pageName:= .Params.layout}}
+{{if and (ne $pageName "thankyou") (ne $pageName "404")}}
 <div class="subscribe-holder">
   <div class="subscribe-heading-wrap">
     <h2 class="subscribe-heading">Subscribe</h2>
     <p>Be the first to know about our updates</p>
   </div>
  <div class="form-block w-form">
-    <form id="email-form" action="" class="subscribe-form">
-      <input type="email" class="subscribe-input-text w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="What is your email address" id="email-2" required=""><input type="submit" value="Submit" data-wait="Please wait..." class="submit-button w-button">
+    <form id="email-form" onsubmit="submitted=true;"   action="https://docs.google.com/forms/u/2/d/e/1FAIpQLSclozFsdHY2kp9n5G1dUR1lDg49Q1n7Bsrst7VNMYGMi1fuzA/formResponse" class="subscribe-form">
+      <input type="email" class="subscribe-input-text w-input" maxlength="256" name="entry.1354100873" data-name="Email 2" placeholder="What is your email address" id="email-2" required=""><input type="submit" value="Submit" data-wait="Please wait..." class="submit-button w-button">
     </form>
     <div class="w-form-done">
       <div>Thank you! Your submission has been received!</div>
