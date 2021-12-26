@@ -3,17 +3,17 @@
   {{- partial "forms/subscribe-form" . -}}
     <div class="footer-quicklink-holder">
       <div class="footer-quicklink-wrap">
-        <a href="#" class="footerlink">basic insights</a>
-        <a href="#" class="footerlink">analyses</a>
-        <a href="#" class="footerlink">blog</a>
-        <a href="#" class="footerlink">About</a>
-        <a href="#" class="footerlink">explore site</a>
+        {{range .Site.Menus.navmenu}}
+        <a href="{{.URL | absLangURL}}" class="footerlink">{{.Name}}</a>
+        {{end}}
+        <a href="/explore-site" class="footerlink">explore site</a>
       </div>
     </div>
 
     <div class="footer-lastlayer-wra">
       <div class="last-line">
         <p>All material on corecognition.com can be reused, reposted, or adapted as long as a link to the original page(s) is clearly included</p>
+        <p>This website was designed and developed by a great guy, <a target="_blank" href="https://www.upwork.com/freelancers/~015c5f1aa603071524">Daniel Awokoya.</a></p>
         <div class="copyright">Copyright © 2021</div>
       </div>
     </div>

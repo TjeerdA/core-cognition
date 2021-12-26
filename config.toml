@@ -16,7 +16,6 @@ siteId = "61996b3541cc105c084a9af1"
 Tag = "tags"
 Category = "categories"
 author = "authors"
-Series = "Introduction"
 
 [Language]
 
@@ -31,6 +30,10 @@ languagedirection = "rtl"
 [languages.en.menu]
 
 [[languages.en.menu.navmenu]]
+name = "BASICS"
+url = "/basics"
+weight = 1
+[[languages.en.menu.footermenu]]
 name = "BASICS"
 url = "/basics"
 weight = 1
