@@ -33,6 +33,8 @@ SeoSection:
     main modes, coping and co-creation, from first principles.
   image_OG: /images/agent-habitat-slider.gif
 ---
+![]()
+
 This 4 section series is based on a recent paper (Andringa & Denham, 2021) in which we outline the basics of **core cognition** starting from the demands to being and remaining alive and maximizing viability of self and habitat. In it we derive core cognition and its two main modes, coping and co-creation, from first principles.
 
 This page pertains to living agents in general.
@@ -106,11 +108,11 @@ Appraisal of reality refers to the behavioral consequences of the current state 
 
 **Reducing the ineffectiveness of behaviors** is essential in problematic (coping) situations. This may entail adopting, through **social** **mimicry**, the behaviors of (seemingly) more successful, healthy, or otherwise attractive agents. The adoption of presumed effective behaviors manifests shared knowledge. Mimicry is a quick fix and works wherever and as long as the adopted behaviors are effective. As a dominant learning strategy, mimicry leads to a coordinated situation of sameness and oneness. The coordinated agents make their adequacy conditional to the narrow set of situations where the mimicked behaviors work. These agents may be intolerant to others who frustrate sameness and oneness. They may express this intolerance by selecting behaviors that enforce social mimicry on non-mimickers. The more they feel threatened, the more they feel an urge to restore the conditions for adequacy and the more intolerant to diversity they are. In humans this is expressed as the authoritarian dynamic (Stenner, 2005).
 
-![Behavioral Repertoire](https://corecognition.com/basics/relation-to-life/Behavioral-repertoire.png "Behavioral Repertoire")
+![Behavioral Repertoire](/images/behavioral-repertoire.png "Behavioral Repertoire")
 
-#### Figure 2. Behavioral repertoire
+###### Figure 2. Behavioral repertoire
 
-> The concepts in the circle refer to appraisal and the verbs in italic to basic motivations. The descriptions in bold and the outer axes refer to the structure of behavioral (in)effectiveness.
+<center> The concepts in the circle refer to appraisal and the verbs in italic to basic motivations. The descriptions in bold and the outer axes refer to the structure of behavioral (in)effectiveness.<center>
 
 #### cognition core terms
 
