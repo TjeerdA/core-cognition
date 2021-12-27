@@ -72,7 +72,7 @@ The **biosphere** grew from fragile and localized to robust and extensive, so 
 
 #### Figure 1. Life’s demand
 
-> Maintaining and increasing viability of self and habitat (based on Andringa & Angyal, 2019). Pervasive optimization of agent and habitat viability leads to increased carrying capacity and more life.
+<center> Maintaining and increasing viability of self and habitat (based on Andringa & Angyal, 2019). Pervasive optimization of agent and habitat viability leads to increased carrying capacity and more life.</center>
 
 Figure 1 presents the co-dependence of acting agents on their habitat. The habitat comprises the aggregate of agentic activities, but is not an actor itself. Hence, a viable habitat is composed of the sumtotal of previous co-creative agentic traces that form a resource to satisfy the conditions on which current agentic existence depends. This entails that, signified by the question marks, agents should be aware not only of their own viability, but also of habitat viability. In fact, we have argued (Andringa, van den Bosch, & Weijermans, 2015) that early, primitive life forms were yet unable to separate self from the co-dependence of self and habitat. This leads to an “**original perspective**” on the combined viability of agent and habitat, which allowed their primitive cognition to optimize the whole, while addressing selfish needs and creating ever better conditions for agentic life. This can be termed **pervasive optimization** and it expresses an emergent purpose of life on Earth to produce more life. Albert Schweitzer (1998) formulated a slightly weaker version of this “I am life that wills to live in the midst of life that wills to live.”
 
