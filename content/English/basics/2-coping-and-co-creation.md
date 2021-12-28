@@ -31,6 +31,7 @@ SeoSection:
     maximizes time for co-creation. The complementarity of the two modes, as two
     separate ontologies that disagree on many aspects, might be the root of
     life’s resilience.
+typora-root-url: ../../../assets/
 ---
 ## Section 2 - Coping and co-creation
 

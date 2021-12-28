@@ -26,6 +26,7 @@ SeoSection:
     pressing problems and, hence, aimed at its termination; and co-creation:
     aimed at optimizing everything in the context of everything else and aimed
     at its perpetuation. "
+typora-root-url: ../../../assets/
 ---
 In this (long) two-part paper we aimed to derive central aspects of cognition from first principles and called the resulting framework core cognition. We summarized many of its key terms in [Table 1](https://corecognition.com/basics/conclusions/CC-Key-Concepts). We derived two separate forms of cognition; coping: for addressing pressing problems and, hence, aimed at its termination; and co-creation: aimed at optimizing everything in the context of everything else and aimed at its perpetuation. We claim that both strategies are essential; but it is the interplay of their strengths that, somewhat unexpectedly but logically, leads to the dominance of one of them: co-creation. Because we derive our conclusions from studying generic living agents, we claim that our results not only pertain to human well-being, but to well-being in general: well-being for all living beings, and by extension, for the biosphere.
 
