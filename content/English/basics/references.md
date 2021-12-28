@@ -22,7 +22,7 @@ SeoSection:
   description: The references to the basics series on Core Cognition (published in Psychology in Russia)
 ---
 
-The references to the basics series (published in Psychology in Russia)
+The combined references of the two articles (published in Psychology in Russia)
 
 Adler, P. S., & Borys, B. (1996). Two types of bureaucracy: Enabling and coercive. Administrative Science Quarterly, 41(1), 61–89. <https://doi.org/10.2307/2393986>
 
