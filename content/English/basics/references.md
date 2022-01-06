@@ -32,7 +32,7 @@ Andringa, T. C. (2015). The Psychological Drivers of Bureaucracy: Protecting the
 
 Andringa, T. C., & Angyal, N. (2019). The nature of wisdom: people’s connection to nature reflects a deep understanding of life. Psychology. Journal of the Higher School of Economics, 16(1), 108–126. <http://doi.org/10.17323/1813-8918-2019-1-108-126>
 
-Andringa, T. C., & Denham, F. C. (2021). Coping and co-creation: one attempt and one route to well-being. Psychology in Russia, 14(2), 152–170.
+Andringa, T. C., & Denham, F. C. (2021). Coping and co-creation: one attempt and one route to well-being. Psychology in Russia, 14(2), 152–170. 
 
 Andringa, T. C., & Lanser, J. J. (2013). How Pleasant Sounds Promote and Annoying Sounds Impede Health: A Cognitive Approach. International Journal of Environmental Research and Public Health, 10(4), 1439–1461. <http://doi.org/10.3390/ijerph10041439>
 
