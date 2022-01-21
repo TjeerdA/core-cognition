@@ -7,7 +7,7 @@ Header:
   heading: "Mass formation from first principles"
   summary: "This is an accessible, but not simplified, text in which derive the features of mass formation and the associated mass cognition from basic features of life. We will show it predicts the properties of authoritarianism and canceling very well"
   alternativetext: Mass formation
-  featuredimage: /images/self-actualization-cover.jpg
+  featuredimage: /images/cc-mass-formation-from-first-principles.png
 Tags:
   - Authoritarisnism
   - Mass formation
@@ -25,7 +25,7 @@ typora-root-url: ../../../Inkscape
 
 
 ***
-![Mass formation from first principles](https://corecognition.com/pdf/tmp/cc-mass-formation-from-first-principles.png)
+![Mass formation from first principles](/images/cc-mass-formation-from-first-principles.png)
 
 ## Mass formation from first principles
 
@@ -46,9 +46,7 @@ This presentation focuses on when habitat complexity exceeds the coping capacity
 
 ****
 
-
-
-![two-modes.png](https://corecognition.com/pdf/tmp/cc-two-modes.png)
+![two-modes.png](/images/cc-two-modes.png)
 
 ## Core Cognition
 
@@ -71,7 +69,7 @@ Living agents learn a lot from copying the behaviors of others. But to become **
 **************
 
 
-![](https://corecognition.com/pdf/tmp/lifes-demands.svg)
+![](/images/cc-lifes-demands.svg)
 
 ## Cognition from first principles
 
@@ -95,7 +93,7 @@ In isolation, coping tends to utilize and **exploit** the (stigmergic) resources
 
 ******
 
-![Understanding and autonomy](https://corecognition.com/pdf/tmp/cc-skill-understanding-autonomy.png)
+![Understanding and autonomy](/images/cc-skill-understanding-autonomy.png)
 
 ## Skill, autonomy & understanding
 
@@ -117,7 +115,7 @@ Since they often cannot rely on their own decision-making to realize intended be
 
 ****
 
-![Inadequacy versus adequacy](https://corecognition.com/pdf/tmp/cc-inadequacy-adequacy.png)
+![Inadequacy versus adequacy](/images/cc-inadequacy-adequacy.png)
 
 ## Inadequacy versus adequacy
 
@@ -152,7 +150,7 @@ In short, **inadequacy** is the inability to prevent or quickly end problems, wh
 
 ****
 
-![](https://corecognition.com/pdf/tmp/cc-attitudes-to-diversity.png)
+![](/images/cc-attitudes-to-diversity.png)
 
 ## Attitudes to diversity
 
@@ -174,7 +172,7 @@ On in individual level, intolerance to diversity leads to self-curtailing of beh
 
 ******
 
-![Shared inadequacy](https://corecognition.com/pdf/tmp/cc-shared-inadequacy.png)
+![Shared inadequacy](/images/cc-shared-inadequacy.png)
 
 ## Shared inadequacy
 
@@ -196,7 +194,7 @@ This strategy provides a **focus to undirected anxiety** and makes it actionable
 
 This leads to a strategy of **social mimicry**. Since social mimicry starts local, it gives rise to multiple local clusters of agents that each agree on a local form of sameness.
 
-![cc-sameness-ingroup-forming.png](https://corecognition.com/pdf/tmp/cc-inter-agent-tension-reduction.png)
+![cc-sameness-ingroup-forming.png](/images/cc-inter-agent-tension-reduction.png)
 
 ## Social mimicry: inter-agent tension reduction
 
@@ -212,7 +210,7 @@ At some point, groups of inadequate copers "surround" adequate self-directors. A
 
 This directs both their intolerance to diversity (a strategy) and free-floating anxiety (which determines urgency).
 
-![cc-sameness-ingroup-forming.png](https://corecognition.com/pdf/tmp/cc-sameness-ingroup-forming.png)
+![cc-sameness-ingroup-forming.png](/images/cc-sameness-ingroup-forming.png)
 
 ## Social mimicry: sameness and in-group forming
 
@@ -242,7 +240,7 @@ This also points to a characteristic difference between copers and co-creators: 
 
 ***
 
-![](https://corecognition.com/pdf/tmp/cc-oneness-centralization-of-authority.png)
+![](/images/cc-oneness-centralization-of-authority.png)
 
 ## Oneness: centralization of authority
 
@@ -285,7 +283,7 @@ The previous provides insight in the basics of authority. Authority is:
 At the same time communities of co-creators within a habitat comprising of mores skilled, more diverse, and hence unique individuals hardly feel conflict when confronted with another groups of skilled, diverse and unique individuals. They use the added diversity as a resource to **enhance the life-skills** necessary for a habitat wide local optimization process of each agent in its environment.
 
 
-![Oneness and Authority centralization](https://corecognition.com/pdf/tmp/cc-phase-transition-mass-formation.png)
+![Oneness and Authority centralization](/images/cc-phase-transition-mass-formation.png)
 ## Phase transition: mass formation
 
 The previous, assumed that the mass transition from co-creation to coping just happened. The transition process is actually a complex phenomenon that resembles what physics refers to as a phase transition (like from liquid to solid).
@@ -305,7 +303,7 @@ The remaining self-deciders stall regression towards further uniformity, simplif
 [^Brasil]: In the movie Brasil the only capable technician who makes unsanctioned repairs in a dysfunctional bureaucracy is treated a "terrorist".
 
 
-![](https://corecognition.com/pdf/tmp/cc-mass-cognition.png)
+![](/images/cc-mass-cognition.png)
 
 ## Mass cognition
 
@@ -333,7 +331,7 @@ During mass formation the **habitat is appraised** as unsafe, deficient, and ful
 
 ---
 
-![](https://corecognition.com/pdf/tmp/cc-link-with-authoritarianism.png)
+![](/images/cc-link-with-authoritarianism.png)
 
 ## Link with authoritarianism
 
@@ -366,7 +364,7 @@ Which is a way to define inadequacy.
 This all leads to what we refer to as the Authoritarian Motto: **"We impose our sameness on others"**.
 
 ---
-![link text](https://corecognition.com/pdf/tmp/authoritarian-dynamic.png)
+![link text](/images/cc-authoritarian-dynamic.png)
 ## The authoritarian dynamic
 
 Stenner produced a simple formula to predict the strength of the **intolerance to difference**.
@@ -398,7 +396,7 @@ In the absence of normative threats, authoritarians are not intolerant to divers
 In generalizes summary of much of the previous is that **coping dominance** is activated by by a combination of **inadequacy** and the threat of **increased habitat complexity** due to highly visible self-deciding co-creators – adequate individuals –  who inspire and empower others with more effective and more realistic ideas, insights, and activities that benefit the habitat on the short and long term in ways that elude the inadequate.
 
 ---
-![](https://corecognition.com/pdf/tmp/cc-disgust-reaction.png)
+![](/images/cc-disgust-reaction.png)
 
 ## The disgust reaction
 
