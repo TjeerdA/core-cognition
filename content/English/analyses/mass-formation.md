@@ -5,7 +5,7 @@ url:
   - mass-formation
 Header:
   heading: "Mass formation from first principles"
-  summary: "This is an accessible, but not simplified, text in which derive the features of mass formation and the associated mass cognition from basic features of life. We will show it predicts the properties of authoritarianism and canceling very well"
+  summary: "This is an accessible, but not simplified, text in which derive the features of mass formation and the associated mass cognition from basic features of life. We will show it predicts the properties of authoritarianism and canceling very well. [Link](https://corecognition.com)"
   alternativetext: Mass formation
   featuredimage: /images/cc-mass-formation-from-first-principles.png
 Tags:
