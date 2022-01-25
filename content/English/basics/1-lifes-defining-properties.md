@@ -35,23 +35,6 @@ SeoSection:
 typora-root-url: ../../../assets/
 ---
 
-## Introduction
-
-This 4 section series is based on a recent paper (Andringa & Denham, 2021) in which we outline the basics of **core cognition** starting from the demands to being and remaining alive and maximizing viability of self and habitat. In it we derive core cognition and its two main modes, coping and co-creation, from first principles.
-
-This page pertains to living agents in general.
-
-With this text come two summary tables:
-
-1. A [list of key concepts](/basics/6-key-concepts/)
-2. [Two contrasting ontologies](/basics/7-two-contrasting-ontologies) one associated with coping, a second with co-creation
-
-This text is based on the original published version, but will deviate over time. The original version can be found here:
-
-* [Andringa, T. C. & Denham, F. C. Coping and Co-creation: One Attempt and One Route to Well-Being. Part 1. Conceptual Framework. *Psychology Russ State Art* **14**, 152–170 (2021).](http://psychologyinrussia.com/volumes/index.php?article=9296)
-
-* [Denham, F. C. & Andringa, T. C. Coping and Co-creation: One Attempt and One Route to Well-being. Part 2. Application to Identity and Social Well-being. *Psychology in Russia: State of the Art* **14**, 217–243 (2021).  ](http://psychologyinrussia.com/volumes/index.php?article=9403)
-
 ## Being by doing
 
 A living entity is different from a dead entity because it self-maintains this difference. **To live** entails self-maintaining and self-constructing a “far from equilibrium state”. The work of Prigogine (1973) showed that, for thermodynamic reasons, such an inherently unstable system can only be maintained via a continual throughput of matter and energy (e.g., food and oxygen). **Death** coincides with the moment self-maintenance stops. From this moment on, the formerly living entity moves towards equilibrium and becomes an integral and eventually indistinguishable part of the environment.

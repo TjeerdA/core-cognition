@@ -4,8 +4,7 @@ date: 2021-12-20T10:47:34.546Z
 url:
   - intro
 Header:
-  summary: Short intro to core cognition. with a link to a YouTube video where
-    Florence and Tjeerd discuss our paper on core cognition.
+  summary: Very short intro to core cognition.
   heading: Intro to core cognition
   featuredimage: /images/introduction-featured-image.jpg
   alternativetext: featured image
@@ -22,33 +21,21 @@ SeoSection:
 ---
 ### What is core cognition?
 
-Core Cognition is the cognition shared by all of life. Core Cognition describes the basic decision making structures that allowed living agents to grow a biosphere from small and fragile to extensive, robust, incredibly diverse, and highly efficient. Core cognition describes the processes of behavior selection for **survival** and **thriving**, which is something that is relevant for all of living individuals: from bacteria to humans. But cognition for flourishing – coping – is essentially different from the cognition for survival – co-creation. This website addressed the power and consequences of this basic idea and we argue that also human cognition (psychology) manifests core cognition in all its key properties.
+Core Cognition is the cognition shared by all of life. Core Cognition describes the basic decision making structures that allowed living agents to grow a biosphere from small and fragile to extensive, robust, incredibly diverse, and highly efficient. Core cognition describes the processes of behavior selection for **survival** and **thriving**, which is something that is relevant for all of living individuals: from bacteria to humans. But cognition for flourishing – coping – is essentially different from the cognition for survival – co-creation. This website addressed the power and consequences of this basic distinction and we argue that also human cognition (psychology) manifests core cognition in all its key properties.
 
-Florence and Tjeerd introduce these papers in a youtube video:
+**Update:** The first part of [mass formation](/analyses/mass-formation) serves as a more concise introduction to core cognition. This text is yet another application of core cognition.  
 
-{{<youtube hGhCwM697os>}}
+The 4 texts in this section are based on a recent paper (Andringa & Denham, 2021) in which we describe the basics of **core cognition** starting from the demands to being and remaining alive and maximizing viability of self and habitat. In it we derive core cognition and its two main modes, coping and co-creation, from first principles. We apply this by explaining the structure of personality and by explaining why two completely different approaches to social well-being can emerge. 
 
-### A very short overview of core cognitions basic modes: coping and co-creation
+With this text come two summary tables:
 
-Some of the key differences between coping and co-creation, equally relevant for humans as for the rest of life, are listed below.
+1. A [list of key concepts](/basics/6-key-concepts/)
+2. [Two contrasting ontologies](/basics/7-two-contrasting-ontologies) one associated with coping, a second with co-creation
 
-| Coping – Cognition for survival                                                                                  | Co-creation – Cognition for thriving                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Activated in times of fear and unfulfilled needs and in general perceived threats to viability.                  | Activated by default and as long as the situation is deemed to be safe enough so that opportunities outweigh dangers |
-| **Adequacy** is defined as discontinued coping (solving the problem, addressing the threat)                      | **Adequacy** is defined as continued co-creation  (preventing problems so that few become pressing)                  |
-| **Inadequacy** is defined as self-perpetuating and/or self-creation of problems that keep the coping mode active | **Inadequacy** is defined as a prevalence of unprevented problems that prevent co-creation to remain active.         |
-| Aimed at realizing specific outcomes (safety, security, fulfilled needs) utilizing existing affordances          | Aimed at realizing broadly beneficial outcomes (and new affordances) via traces left in the environment              |
-| Reactive in response to perceived threats to viability                                                           | Behavior aimed at proactively setting up or protecting the conditions for co-creation.                               |
-| Security: threats brought under control                                                                          | Safety: positive indicators of the absence of threats                                                                |
-| Key strategy: social mimicry                                                                                     | Key strategy: self-directed contributions                                                                            |
-| Main cognitive function: Intelligence                                                                            | Main cognitive function: Wisdom                                                                                      |
+These texts are based on the original published version, but will deviate over time. The original version can be found here:
 
-*Table: Key differences between coping and co-creation*
+* [Andringa, T. C. & Denham, F. C. Coping and Co-creation: One Attempt and One Route to Well-Being. Part 1. Conceptual Framework. *Psychology Russ State Art* **14**, 152–170 (2021).](http://psychologyinrussia.com/volumes/index.php?article=9296)
+* [Denham, F. C. & Andringa, T. C. Coping and Co-creation: One Attempt and One Route to Well-being. Part 2. Application to Identity and Social Well-being. *Psychology in Russia: State of the Art* **14**, 217–243 (2021).  ](http://psychologyinrussia.com/volumes/index.php?article=9403)
 
-One way of summarizing these differences is that coping assumes a closed world: all agentic efforts are focused on the perceived problem or threat and a solution space (umwelt) is created that is just big enough to allow the individual to deal with the problem in the least risky and most effective (but not necessarily best) way known to the agent.
+A combined pdf can be found [here](/pdf/Andringa-Denham_2021.pdf)
 
-In contrast, co-creation assumes an open world: a world in which everything has a potential influence on everything else and where infinitely many ways exist to prevent future problems and equally many ways exist to build on the traces previous behaviors left in the environment. The associated Umwelt is effectively unlimited here. This is the mode that can optimize everything in the context of everything else, where the sheer infinite set of possible contributions entail the freedom to act in ways that come easy.
-
-Coping feels forced because it is activated  by problems and threats and behaviors must be selected reactively from a small set to avoid harm or death. There is always a degree of urgency and an experience of being compelled to respond rather than being fully free to self-decide. Co-creation feels unforced since is allowed by the absence of threats and pressing needs, which allows behaviors to be experienced as unforced, truly self-selected, and Bradly beneficial.
-
-Core cognition intends to become the theoretical framework that explains many features of our daily experience and interactions with the world. In particular it allows the develop or improve an outsiders perspective on your own daily functioning in a complex social and natural world.

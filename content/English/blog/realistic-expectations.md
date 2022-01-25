@@ -3,13 +3,12 @@ title: Realistic Expectations
 url:
   - realistic-expectations
 Header:
-  featuredvideo: 6R8Bn9SmVG8
   heading: Realistic expectations
   summary: This video addresses some issues associated with whether we as
     individuals or society have a solid basis to engage with the world. And what
     some consequences are if we have not. This is associated with how we
-    appraise the world. The societal example is the Media.
-  featuredimage: /images/kruger-dunning-effect.gif
+    appraise the world. 
+  featuredimage: /images/media-landscape.png
   alternativetext: Realistic expectations
 toc:
   - on
@@ -17,13 +16,11 @@ SeoSection:
   description: This video addresses some issues associated with whether we as
     individuals or society have a solid basis to engage with the world. And what
     some consequences are if we have not. This is associated with how we
-    appraise the world. The societal example is the Media.
+    appraise the world. 
   title: Realistic expectations
-  image_OG: /images/homepage_picture.gif
+  image_OG: /images/media-landscape.png
 ---
-This video addresses some issues associated with whether we as individuals or society have a solid basis to engage with the world. And what some consequences are if we have not. This is associated with how we appraise the world. The societal example is the Media.
-
-Successful interactions with the world require realistic expectations about the world.
+Successful interactions with the world require realistic expectations about the world. This video addresses the role of the media in developing realistic expectations. 
 
 * The role of realistic expectations
 
@@ -38,3 +35,5 @@ Successful interactions with the world require realistic expectations about the 
   * Pathological worldview: you create your own problems (coping trap)
   * Normal worldview: you create as many problems as you solve (a combination of coping and co-creation )
   * Healthy worldview: you prevent and solve more problems than you create (mostly co-creation in combination with effective coping)
+
+{{< youtube id="xnDD1RrDaBs" >}}

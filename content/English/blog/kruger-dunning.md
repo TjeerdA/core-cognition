@@ -14,8 +14,6 @@ Header:
 Tags:
   - authoritarianism
   - Self development
-Categories:
-  - core cognition
 Authors:
   - Dr Tjeerd Andringa
 toc: on
@@ -26,6 +24,7 @@ SeoSection:
     do not acquire real-world competences and instead get stuck in a narrative
     or ideology that you take, by default as true, because you avoid testing it
     in the real world.
+typora-root-url: ../../../assets
 ---
 In 1999, Justin Kruger and David Dunning wrote a paper called *“Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments”.* They noted that “People tend to hold overly favorable views of their abilities in many social and intellectual domains”. Because of this they “reach erroneous conclusions and make unfortunate choices”. This makes sense: if you overestimate your abilities, at some point reality will prove you wrong and you will suffer unexpected and generally unfortunate consequences.
 
@@ -85,4 +84,4 @@ Easy. You feel you are correct. And because you feel no doubt, you must be corre
 
 You got trapped in the perfect closed world that the coping mode allows us to create. It self-maintains the illusion of perfection because it closes itself from the being confronted by its imperfections. Real-world influences that cannot be fit in the narrative world are rejected in favor of ever more elaborate narrative constructs that explain why the real-world can and should be discounted in favor of the narrative we keep repeating.
 
-Instead of using your intelligence to ever-improve and generalize your understanding of the world, it does just the opposite: you used your intelligence to protect youself from any (sometimes painful) learning experience that reduces your inadequacy. The result is that your inadequacy becomes a central part of your identity. This fits with what we have written down in [part 3 of Coping & Co-creation](https://corecognition.com/basics/indentity/).
+Instead of using your intelligence to ever-improve and generalize your understanding of the world, it does just the opposite: you used your intelligence to protect youself from any (sometimes painful) learning experience that reduces your inadequacy. The result is that your inadequacy becomes a central part of your identity. This fits with what we have written down in [part 3 of Coping & Co-creation](https://corecognition.com/basics/indentity/) in the part on the normative identity style.

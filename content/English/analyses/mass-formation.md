@@ -1,17 +1,16 @@
 ---
-title: Mass formatiopn
+title: Mass formation
 date: 2022-01-21
 url:
   - mass-formation
 Header:
   heading: Mass formation from first principles
   summary: >-
-    **This is an accessible**, but not simplified, text in which derive the
+    This is an accessible, but not simplified, text in which derive the
     features of mass formation and the associated mass cognition from basic
     features of life. 
-
-
-    We will show it predicts the properties of authoritarianism and canceling very well. [Link](https://corecognition.com)
+    <br>
+    We will show it predicts the properties of authoritarianism and canceling very well. 
   alternativetext: Mass formation
   featuredimage: /images/cc-mass-formation-from-first-principles.png
 Tags:
@@ -29,7 +28,7 @@ SeoSection:
     features of mass formation and the associated mass cognition from basic
     features of life. We will show it predicts the properties of
     authoritarianism and canceling very well
-typora-root-url: ../../../Inkscape
+typora-root-url: ../../../assets
 ---
 
 
@@ -437,6 +436,9 @@ The first option is **"We impose our sameness on you"**. And the second **"We st
 
 The first option is that the target **recants** and passes through a **humiliating procedure** in which it has to **denounce its diversity, its individuality, and proof its in-group worthiness[^canoe].** This option purges the diversity and restores oneness.
 
-[^canoe]: A fascinating example of such a humiliating procedure (ceremony almost) was recorded in during the Evergreen events in 2018 that led to the purging of Brett and Heather Weinstein. Embarking on *the canoe towards equity* stands for the reduction of diversity. Some individuals had to ask for permission for boarding the canoe by pledging their loyalty to the equity goals and denouncing their identity. https://youtu.be/FH2WeWgcSMk?t=858
+[^canoe]: A fascinating example of such a humiliating procedure (ceremony almost) was recorded in during the Evergreen events in 2018 that led to the purging of Brett and Heather Weinstein. Embarking on *the canoe towards equity* stands for the reduction of diversity. Some individuals had to ask for permission for boarding the canoe by pledging their loyalty to the equity goals and denouncing their uniqueness. https://youtu.be/FH2WeWgcSMk?t=858
 
-When the target is sufficiently self-directed and refuses to be brought down to the demanded sameness, restoration of oneness is impossible. The focus then moves to the expulsion of the
+When the target is sufficiently self-directed and refuses to be brought down to the demanded sameness, restoration of oneness is impossible. The focus then moves to **purging the target**. 
+
+The way the target understands the habitat and and can engage in skilled behavior represents toxicity. Contact with the **target's point of view must be minimized** at all costs. As a toxic influence, **the target is valueless, hence no harm is done** even if the target is **hurt or killed**.  This restores in-groups sameness.   
+

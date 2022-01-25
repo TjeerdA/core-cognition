@@ -9,7 +9,7 @@ Header:
     ecology). The explanation we give for the origin of the adpative cycle – as
     a multi-facetted consolidation process of sustainable building blocks – is
     new as far as we know.
-  featuredimage: /images/adaptive-cycle-featured-image.gif
+  featuredimage: /images/adaptive-cycle-banner.png
   alternativetext: The adaptive cycle
 Tags:
   - adaptive cycle
@@ -28,7 +28,11 @@ SeoSection:
     low viability (stasis compared to vibrancy).
 
     The explanation we give for the origin of the adpative cycle – as a multi-facetted consolidation process of sustainable building blocks – is new as far as we know.
+typora-root-url: ../../../assets
 ---
+
+
+
 Mini lecture on origin of the adaptive cycle (a construct developed in ecology). This video played a role in the Systems View on Life course at the University of Groningen.
 
 The [adaptive cycle](https://www.resalliance.org/adaptive-cycle) is a very useful conceptual tool. Note that we have flipped the horizontal axis (referred to as connecteness) compared to the normal presentation. In a core cognition framework connecteness refers to low viability (stasis compared to vibrancy).
@@ -47,4 +51,10 @@ Video topics
 * We end with a comparison of expressed values of two countries that suggest quite different cycle positions.
 
 
-![Adaptive Cycle Infographics](/images/adaptive-cycle.gif "Adaptive Cycle Infographics")
+
+
+```
+{{< youtube id="Tq7303uvq0U" autoplay="false" color="white" >}}
+```
+
+Note that the convention for drawing and naming the adaptive cycle is different from what we do. We flip it left right and we use more general terms than the regular terms that make sense in the original ecology context. ![Adaptive Cycle](/images/adaptive-cycle.gif "Adaptive Cycle Infographics")
