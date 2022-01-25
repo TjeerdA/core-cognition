@@ -14,6 +14,8 @@ Header:
 Tags:
   - Concepts
   - definitions
+Categories:
+  - Overview of Core Cognition
 Authors:
   - Dr Tjeerd Andringa
   - Florence Denham

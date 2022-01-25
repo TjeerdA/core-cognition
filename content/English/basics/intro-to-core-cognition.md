@@ -39,3 +39,13 @@ These texts are based on the original published version, but will deviate over t
 
 A combined pdf can be found [here](/pdf/Andringa-Denham_2021.pdf)
 
+A number of other texts are also relevant. 
+
+* Andringa, T. C., Bosch, K. A. M. van den & Wijermans, N. Cognition from life: the two modes of cognition that underlie moral behavior. *Frontiers in Psychology* **6**, 1–18 (2015).  
+* Andringa, T. C., Bosch, K. A. M. van den & Vlaskamp, C. Learning autonomy in two or three steps: linking open-ended development, authority, and agency to motivation. *Frontiers in Psychology* **4**, 18 (2013).  
+* Andringa, T. C. & Angyal, N. The nature of wisdom: people’s connection to nature reflects a deep understanding of life. *Psychology. Journal of the Higher School of Economics* **16**, 108–126 (2019).  
+
+* Bosch, K. A. M. van den, Welch, D. & Andringa, T. C. The Evolution of Soundscape Appraisal Through Enactive Cognition. *Frontiers in Psychology* **9**, 1–11 (2018).  
+
+* Andringa, T. C. The Psychological Drivers of Bureaucracy: Protecting the Societal Goals of an Organization. in *Policy practice and digital science : integrating complex systems, social simulation and public administration in policy research* 221–260 (Policy Practice and Digital Science, 2015). doi:10.1007/978-3-319-12784-2_11.  
+
