@@ -10,7 +10,7 @@ Header:
     features of mass formation and the associated mass cognition from basic
     features of life. 
     <br>
-    We will show it predicts the properties of authoritarianism and canceling very well. 
+    We show it predicts the properties of authoritarianism and canceling very well. 
   alternativetext: Mass formation
   featuredimage: /images/cc-mass-formation.png
 Tags:
@@ -52,14 +52,11 @@ However, mass formation emerges as a habitat wide **dominance** of coping throug
 
 Coping and co-creation are balancing like yin and yang. Co-creation promotes **diversity, complexity, novelty, and connectedness**. Coping balances this by providing **structure, predictability, utility, and focus**. A productive interplay keeps the habitat vibrant and stable and allows its inhabitants to develop the skills to flourish. 
 
-This presentation focuses on what happens when habitat complexity exceeds the coping capacity of most inhabitants. The main text focusses on the introduction and description of phenomena. The footnote provides literature references[^refs] and illustrative comments[^psychology]. 
+This presentation focuses on what happens when habitat complexity exceeds the coping capacity of most inhabitants. The main text focusses on the introduction and description of phenomena. The footnotes provide literature references[^refs] and illustrative comments[^psychology]. 
 
 We start with some basics of core cognition. 
 
-
-
 [^refs]: Much of the background has been published in "Cognition from life" (Andringa et al., 2015), "The Evolution of Soundscape Appraisal Through Enactive Cognition" (van den Bosch et al., 2019), and "Coping and Co-creation: One Attempt and One Route to Well-Being. Part 1 & 2" (Andringa & Denham, 2021). Links to the files in the [/basics section](basics/intro-to-core-cognition/)
-
 [^psychology]: Psychology tends to produce a rich and detailed description of the diversity of human behavior. Where psychology provides the 'what', core cognition aims to explain 'why' these cognitive phenomena exist and 'why' they have the properties they exhibit.
 
 
