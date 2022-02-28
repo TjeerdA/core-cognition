@@ -1,7 +1,7 @@
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Core-cognition"
-baseURL = "/"
+baseURL = "https://corecognition.netlify.app/"
 disableLanguages = ["nl", "fr"]
 [markup]
   [markup.goldmark]
