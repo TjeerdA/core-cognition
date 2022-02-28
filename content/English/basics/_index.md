@@ -8,18 +8,14 @@ Seosection:
 title: Basics
 date: 2021-11-27T10:15:34-08:00
 Header:
-  heading: Basics
-  summary: >-
-    The posts in this section are further
-
-    developments or applications of
-    the basic ideas of core cognition.
+  heading: Basics of core cognition
+  summary: "This section provides an overview of core cognition. The test is based on our recent publications, but deviates here and there for clarification. This is a serious, but fairly accessible introduction "
   img_background: /images/triangles.svg
   alternativetext: Analysis_alt
 toc: on
 SeoSection:
-  title: Applications of Core Cognition
-  description: "The posts in this section are further developments or applications
-    of the basic ideas of core cognition. "
-pageTitle: Basics
+  title: Basics of core cognition
+  description: "This section provides an overview of core cognition. The test is based on our recent publications, but deviates here and there for clarification. This is a serious, but fairly accessible introduction "
+image_OG: "/images/"
+pageTitle: Basics of core cognition
 ---

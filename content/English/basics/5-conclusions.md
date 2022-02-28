@@ -15,6 +15,8 @@ Tags:
   - Concepts
   - Basics
   - Identity
+Categories:
+  - Overview of Core Cognition
 Authors:
   - Dr Tjeerd Andringa
   - Florence Denham

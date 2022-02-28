@@ -21,7 +21,8 @@ Tags:
   - pathological normality
   - ontological Security
   - psychological safety
-Authors:
+Categories:
+  - Overview of Core CognitionAuthors:
   - Florence Denham
   - Dr Tjeerd Andringa
 toc: on

@@ -19,7 +19,6 @@ Categories:
   - Analyses
 Authors:
   - Dr Tjeerd Andringa
-  - Abraham Maslow
 toc: on
 SeoSection:
   title: Self-actualization
@@ -28,7 +27,7 @@ SeoSection:
     levels of self-development, autonomy, happiness, and growth they can in
     principle achieve.
 ---
-## A deeper look at self-actualization: what is it and what is it not?
+## A deeper look at self-actualization: what is it?
 
 Authors: Tjeerd C. Andringa
 
