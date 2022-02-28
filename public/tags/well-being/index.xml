@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Well being on Core-cognition</title>
+    <link>http://localhost:1313/tags/well-being/</link>
+    <description>Recent content in Well being on Core-cognition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Dec 2021 10:10:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/well-being/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>References</title>
+      <link>http://localhost:1313/basics/references/</link>
+      <pubDate>Sun, 12 Dec 2021 10:10:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/basics/references/</guid>
+      <description>The combined references of the two articles (published in Psychology in Russia)
+Adler, P. S., &amp;amp; Borys, B. (1996). Two types of bureaucracy: Enabling and coercive. Administrative Science Quarterly, 41(1), 61–89. https://doi.org/10.2307/2393986
+Andreas, P., &amp;amp; Price, R. (2001). From War Fighting to Crime Fighting: Transforming the American National Security State. International Studies Review, 3(3), 31–52.
+Andringa, T. C. (2015). The Psychological Drivers of Bureaucracy: Protecting the Societal Goals of an Organization.</description>
+    </item>
+    
+  </channel>
+</rss>

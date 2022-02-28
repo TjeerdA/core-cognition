@@ -5,7 +5,7 @@
       <div class="pages-header-inside">
         {{/* This loads the partial Name of the section */}}
         {{- partial "header-crumbs/name_section" . -}}
-        <p class="text-subpages">{{.Params.Header.summary}}</p>
+        <p class="text-subpages">{{.Params.Header.summary | markdownify}}</p>
       </div>
     </div>
     <div class="abs-header"><img src="{{.Params.Header.img_background}}" loading="lazy" alt=""></div>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Understanding on Core-cognition</title>
+    <link>http://localhost:1313/tags/understanding/</link>
+    <description>Recent content in Understanding on Core-cognition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Dec 2021 16:33:48 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/understanding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two half brains</title>
+      <link>http://localhost:1313/analyses/two-half-brains/</link>
+      <pubDate>Fri, 17 Dec 2021 16:33:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/analyses/two-half-brains/</guid>
+      <description>This is a slightly extended version of Example 1 of the usefulness of the concept of core cognition that we gave of in the application section called &amp;ldquo;Human Cognition from Life&amp;rdquo; in our 2015 paper called Cognition from Life (page 11). It develops a connection with Iain McGilchrist&amp;rsquo;s seminal work on the divide brain.
+Two Attitudes Toward the World and Two Brain Hemispheres
+In Learning Autonomy (Andringa et al., 2013) we observed that successful life span development is characterized by an ever-improving understanding of reality in combination with an urge (and proven ability) to improve and shape the Umwelt.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on Core-cognition</title>
+    <link>http://localhost:1313/tags/life/</link>
+    <description>Recent content in life on Core-cognition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Dec 2021 20:47:34 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 - Life&#39;s defining properties</title>
+      <link>http://localhost:1313/basics/1-lifes-defining-properties/</link>
+      <pubDate>Sun, 19 Dec 2021 20:47:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/basics/1-lifes-defining-properties/</guid>
+      <description>Introduction This 4 section series is based on a recent paper (Andringa &amp;amp; Denham, 2021) in which we outline the basics of core cognition starting from the demands to being and remaining alive and maximizing viability of self and habitat. In it we derive core cognition and its two main modes, coping and co-creation, from first principles.
+This page pertains to living agents in general.
+With this text come two summary tables:</description>
+    </item>
+    
+    <item>
+      <title>The adaptive cycle</title>
+      <link>http://localhost:1313/analyses/the-adaptive-cycle/</link>
+      <pubDate>Thu, 16 Dec 2021 18:15:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/analyses/the-adaptive-cycle/</guid>
+      <description>Mini lecture on origin of the adaptive cycle (a construct developed in ecology). This video played a role in the Systems View on Life course at the University of Groningen.
+The adaptive cycle is a very useful conceptual tool. Note that we have flipped the horizontal axis (referred to as connecteness) compared to the normal presentation. In a core cognition framework connecteness refers to low viability (stasis compared to vibrancy).</description>
+    </item>
+    
+  </channel>
+</rss>

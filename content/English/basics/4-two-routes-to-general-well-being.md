@@ -36,6 +36,7 @@ SeoSection:
   image_OG: /images/well-being-pyramid.png
 typora-root-url: ../../../assets/
 ---
+
 This section addresses two routes to social well-being. There are many routes to prospective well-being; in fact, all self-help literature and political, economic, or religious ideologies propose them. We have selected the “ontological security” framework and a recent formulation of “psychological safety” to represent very clear, actionable, and precisely-worded coping and co-creation alternative approaches to general well-being. In this section we will apply our core cognition framework as a metatheoretical lens to inspect the “theories” described below. This requires us to focus on the mindsets that spawned the theories behind either the coping or co-creation ontology.
 
 Ontological security and psychological safety refer to seemingly similar, but essentially different, concepts of avoiding danger. We address that first.

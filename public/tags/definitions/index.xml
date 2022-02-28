@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Definitions on Core-cognition</title>
+    <link>http://localhost:1313/tags/definitions/</link>
+    <description>Recent content in Definitions on Core-cognition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Dec 2021 18:28:07 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inclusive definitions</title>
+      <link>http://localhost:1313/analyses/inclusive-definitions/</link>
+      <pubDate>Thu, 16 Dec 2021 18:28:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/analyses/inclusive-definitions/</guid>
+      <description>How can we define scientific concepts such that they are inclusive of all phenomena that pertain to the concept?
+Improving definitions  What distinguishes the language of science from language as we ordinarily understand the word? … What science strives for is an utmost acuteness and clarity of concepts as regards their mutual relation and their correspondence to sensory data.
+– Albert Einstein
+ In the years from 1991 to 1999, I contributed to the design and development of an applied cognitive science department – what has now become the department of Artificial Intelligence at the University of Groningen (the Netherlands).</description>
+    </item>
+    
+    <item>
+      <title>Key Concepts</title>
+      <link>http://localhost:1313/basics/6-key-concepts/</link>
+      <pubDate>Tue, 14 Dec 2021 06:22:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/basics/6-key-concepts/</guid>
+      <description>Text based on Andringa &amp;amp; Denham (2021a)
+   | Concepts Core cognition key concepts with definition     Core Cognition The cognition shared by all of life   To live Self-maintaining being different from the environment   Death End of self-maintained difference from the environment   Need satisfaction Acquiring and executing the necessities (food and energy) for life (self-maintaining being different from the environment)   Agent “An autonomous organization that adaptively regulates its coupling with its environment and contributes to sustaining itself as a consequence.</description>
+    </item>
+    
+    <item>
+      <title>Two contrasting ontologies</title>
+      <link>http://localhost:1313/basics/7-two-contrasting-ontologies/</link>
+      <pubDate>Mon, 13 Dec 2021 09:28:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/basics/7-two-contrasting-ontologies/</guid>
+      <description>This is a table with two contrasting self-consistent ontologies that arise from the defining properties of coping and co-creation. It complements the key concept table Ideally the ontology of thriving dominates with continual focused contributions of the ontology of survival. But it is also possible that coping starts to dominate to the exclusion of the other ontology: a coping trap
+    Ontology of survival (coping) Ontology of thriving (co-creation)      Languishing Low viability state as the outcome of a pattern of ineffective or misguided behaviors High viability state as the outcome of a pattern of broadly effective behaviors Flourishing   Threat: behavioral constraints Agent appraisal of viability threats, entailing a reduction of the set of context appropriate behavioral options to include only those that allow the agent to survive Agent appraisal of the absence of viability threats, allowing self-guided exploration of opportunities that enlarge the set of context appropriate behavioral options Safety: behavioral freedom   Problem A perceived threat to agent viability that activates a pressing need and hence motivates reactive behavior A perceived possibility to improve (agent or habitat) viability and hence motivates proactive behavior and the expression of novel behaviors Opportunity   Coping The reactive fallback mode of behavior aimed at protecting agent viability by ending problem states.</description>
+    </item>
+    
+  </channel>
+</rss>

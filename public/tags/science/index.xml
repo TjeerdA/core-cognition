@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on Core-cognition</title>
+    <link>http://localhost:1313/tags/science/</link>
+    <description>Recent content in Science on Core-cognition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Dec 2021 18:28:07 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inclusive definitions</title>
+      <link>http://localhost:1313/analyses/inclusive-definitions/</link>
+      <pubDate>Thu, 16 Dec 2021 18:28:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/analyses/inclusive-definitions/</guid>
+      <description>How can we define scientific concepts such that they are inclusive of all phenomena that pertain to the concept?
+Improving definitions  What distinguishes the language of science from language as we ordinarily understand the word? … What science strives for is an utmost acuteness and clarity of concepts as regards their mutual relation and their correspondence to sensory data.
+– Albert Einstein
+ In the years from 1991 to 1999, I contributed to the design and development of an applied cognitive science department – what has now become the department of Artificial Intelligence at the University of Groningen (the Netherlands).</description>
+    </item>
+    
+  </channel>
+</rss>

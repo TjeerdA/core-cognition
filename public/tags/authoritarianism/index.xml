@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authoritarianism on Core-cognition</title>
+    <link>http://localhost:1313/tags/authoritarianism/</link>
+    <description>Recent content in Authoritarianism on Core-cognition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Dec 2021 11:46:49 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/authoritarianism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bureaucracy</title>
+      <link>http://localhost:1313/analyses/bureaucracy/</link>
+      <pubDate>Fri, 17 Dec 2021 11:46:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/analyses/bureaucracy/</guid>
+      <description>“This is an older text, but accessable text, that eventually developed into a paper called: “The Psychological Drivers of Bureaucracy: Protecting the Societal Goals of an Organization.” (Andringa, 2015) that develops the topic of bureacracy much deeper.
+Bureaucracy as perfect manifestation of the coping mode. This text from 2013 foreshadows much of the main content of this site (at a moment where I was still unaware of the possibility of core cognition).</description>
+    </item>
+    
+    <item>
+      <title>kruger-dunning</title>
+      <link>http://localhost:1313/blog/kruger-dunning/</link>
+      <pubDate>Thu, 09 Jul 2020 08:17:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/kruger-dunning/</guid>
+      <description>In 1999, Justin Kruger and David Dunning wrote a paper called “Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments”. They noted that “People tend to hold overly favorable views of their abilities in many social and intellectual domains”. Because of this they “reach erroneous conclusions and make unfortunate choices”. This makes sense: if you overestimate your abilities, at some point reality will prove you wrong and you will suffer unexpected and generally unfortunate consequences.</description>
+    </item>
+    
+  </channel>
+</rss>

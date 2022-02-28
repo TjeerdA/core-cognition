@@ -31,10 +31,15 @@
         {{- /* This references the author Params in all posts*/ -}}
         <div class="author-block">
           <div class="author">Author:</div>
-          <div class="author-wrapper">
+          <div class="author-wrapper" title="Author">
             {{$num_authors := .Params.authors}}
-            {{- range .Params.authors -}} <a href="/authors/{{ . | urlize }}" class="text-block"> {{.}}</a>{{- if ge $num_authors 2 -}},{{end}}
+            {{- range .Params.authors -}} <a href="/authors/{{ . | urlize }}" class="text-block"> {{.}}</a>
             {{- end -}}
+            <br>
+            {{ range $k, $v := .GetTerms "authors" }}
+            {{- if $k }}, {{ end }}
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            {{- end }}
           </div>
         </div>
       </div>

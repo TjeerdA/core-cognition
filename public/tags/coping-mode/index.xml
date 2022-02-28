@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coping mode on Core-cognition</title>
+    <link>http://localhost:1313/tags/coping-mode/</link>
+    <description>Recent content in Coping mode on Core-cognition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/coping-mode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mass formatiopn</title>
+      <link>http://localhost:1313/analyses/mass-formation/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/analyses/mass-formation/</guid>
+      <description>Mass formation from first principles In this presentation we derive the features of mass formation and the associated mass cognition from basic features of life. We do this from the theoretical perspective of core cognition: the hypothesized cognition shared by all of life.
+Core cognition describes the basic requirements for the selection of situationally appropriate behavior. Selecting situationally appropriate behavior is what all living agents do, all the time.</description>
+    </item>
+    
+  </channel>
+</rss>
